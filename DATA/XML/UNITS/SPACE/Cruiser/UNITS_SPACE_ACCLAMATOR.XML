@@ -355,21 +355,5 @@
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 		<Population_Value>4</Population_Value>
 	</SpaceUnit>
-<!--
-	<SpaceUnit Name="Acclamator_Zero_Command">
-
-        <Variant_Of_Existing_Type>Acclamator_Assault_Ship_No_Fighters</Variant_Of_Existing_Type>
-        <Affiliation>Empire, ZeroCommand</Affiliation>
-
-		<!-- Set to spawn all units once and then not continue - no reserves -->
-		<Starting_Spawned_Units_Tech_0>TIE_Brute_Squadron, 1</Starting_Spawned_Units_Tech_0>
-		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
-		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
-		<!--Currently no reserves -->
-		<Reserve_Spawned_Units_Tech_0>TIE_Brute_Squadron, 4</Reserve_Spawned_Units_Tech_0> 
-		<Reserve_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 4</Reserve_Spawned_Units_Tech_0> 
-		
-    </SpaceUnit>-->
-
 
 </REP_PDF_Dreadnought>

@@ -80,7 +80,7 @@
 		<Starting_Spawned_Units_Tech_0>V19_Squadron, 1</Starting_Spawned_Units_Tech_0>
 
 		<CategoryMask> Frigate | AntiCorvette</CategoryMask>
-		<Icon_Name>I_BUTTON_CARRACK_REP.tga</Icon_Name>
+		<Icon_Name>I_BUTTON_CARRACK.TGA</Icon_Name>
 		<GUI_Distance>1100</GUI_Distance>
 		<GUI_Offset>0 0 0</GUI_Offset>
 		<GUI_Velocity>45</GUI_Velocity>
