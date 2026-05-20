@@ -187,5 +187,11 @@
 		<Population_Value>4</Population_Value>
 	</SpaceUnit>
 
+	<SpaceUnit Name="Interdictor_Zero_Command">
+		<Variant_Of_Existing_Type>Interdictor_Cruiser</Variant_Of_Existing_Type>
+		<Affiliation>ZeroCommand</Affiliation>
+
+	</SpaceUnit>
+
 
 </REP_PDF_Dreadnought>

@@ -249,6 +249,48 @@
 
 	</SpaceUnit>
 
+	<SpaceUnit Name="Star_Destroyer_ZeroCommand">
+
+		<Variant_Of_Existing_Type>Star_Destroyer_E_No_Fighters</Variant_Of_Existing_Type>
+
+		<!-- Info -->
+
+		<Text_ID>TEXT_UNIT_STAR_DESTROYER</Text_ID>
+
+		<Encyclopedia_Text> 
+			TEXT_TOOLTIP_ISD
+		</Encyclopedia_Text>
+
+		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_CAPITAL </Encyclopedia_Unit_Class>
+		<Encyclopedia_Good_Against> Corellian_Corvette Interceptor4_Frigate Nebulon_B_Frigate </Encyclopedia_Good_Against>
+		<Encyclopedia_Vulnerable_To> Y-wing Skipray_Blastboat MC30_Frigate </Encyclopedia_Vulnerable_To>
+		<Space_Model_Name>Imperator_1_Star_Destroyer.ALO</Space_Model_Name>
+		<Icon_Name>i_button_imperator.tga</Icon_Name>
+		<Scale_Factor>0.3</Scale_Factor>
+		<Lua_Script>isd</Lua_Script>
+
+		<!-- Build Requirements -->
+
+		<Affiliation>ZeroCommand</Affiliation>
+		<Tech_Level>1</Tech_Level>
+		<Required_Timeline>0</Required_Timeline>
+		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
+		<Required_Star_Base_Level>1</Required_Star_Base_Level>
+		<Required_Special_Structures>Tier_III_Shipyard</Required_Special_Structures>
+		<Lua_Script>StarDestroyer</Lua_Script>
+
+		<Population_Value>7</Population_Value>
+
+		<Starting_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 3</Starting_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
+
+		<Reserve_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 8</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 4</Reserve_Spawned_Units_Tech_0> 
+
+		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
+
+	</SpaceUnit>
+
 
 
 

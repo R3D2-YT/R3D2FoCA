@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Corporations>
+
+    <SpecialStructure Name="Warlord_Mining_Facility">
+
+        <Variant_Of_Existing_Type>Empire_Ground_Mining_Facility</Variant_Of_Existing_Type>
+
+        <Affiliation>ZeroCommand</Affiliation>
+    </SpecialStructure>
+
+	<SpecialStructure Name="Warlord_Barracks">
+
+        <Variant_Of_Existing_Type>E_Ground_Barracks</Variant_Of_Existing_Type>
+
+        <Affiliation>ZeroCommand</Affiliation>
+    </SpecialStructure>
+
+	<SpecialStructure Name="Warlord_Light_Vehicle_Factory">
+
+        <Variant_Of_Existing_Type>E_Ground_Light_Vehicle_Factory</Variant_Of_Existing_Type>
+
+        <Affiliation>ZeroCommand</Affiliation>
+    </SpecialStructure>
+
+	<SpecialStructure Name="Warlord_Heavy_Vehicle_Factory">
+
+        <Variant_Of_Existing_Type>E_Ground_Heavy_Vehicle_Factory</Variant_Of_Existing_Type>
+		<Required_Special_Structures>Warlord_Light_Vehicle_Factory</Required_Special_Structures>
+
+        <Affiliation>ZeroCommand</Affiliation>
+    </SpecialStructure>
+
+	<SpecialStructure Name="Warlord_Advanced_Vehicle_Factory">
+
+        <Variant_Of_Existing_Type>E_Ground_Advanced_Vehicle_Factory</Variant_Of_Existing_Type>
+		<Required_Special_Structures>Warlord_Heavy_Vehicle_Factory</Required_Special_Structures>
+
+        <Affiliation>ZeroCommand</Affiliation>
+    </SpecialStructure>
+
+</Corporations>

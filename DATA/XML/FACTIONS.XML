@@ -749,7 +749,7 @@
 
 
 		<Allies />
-		<Enemies>Empire, Pirates, Hostile, Sarlacc, Underworld, Hutts</Enemies>
+		<Enemies>Empire, ZeroCommand, Pirates, Hostile, Sarlacc, Underworld, Hutts</Enemies>
 		
 		<Can_Control_Planets>true</Can_Control_Planets>
 
@@ -1511,7 +1511,7 @@
 		<!-- End Droid Advisor Speech/Text -->
 
 		<Allies />
-		<Enemies>Rebel, Pirates, Hostile, Target, Sarlacc, Underworld, Hutts</Enemies>
+		<Enemies>Rebel, ZeroCommand, Pirates, Hostile, Target, Sarlacc, Underworld, Hutts</Enemies>
 		
 		<Can_Control_Planets>true</Can_Control_Planets>
 

@@ -16,7 +16,7 @@
 		<Encyclopedia_Vulnerable_To> Y-wing Skipray_Blastboat MC30_Frigate </Encyclopedia_Vulnerable_To>
 		<Space_Model_Name>Tector_Star_Destroyer.ALO</Space_Model_Name>
 		<Icon_Name>i_button_tector.tga</Icon_Name>
-		<Scale_Factor>0.5</Scale_Factor>
+		<Scale_Factor>0.3</Scale_Factor>
 
 		<!-- Build Requirements -->
 
@@ -25,10 +25,10 @@
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures> Tier_III_Shipyard, KDY </Required_Special_Structures>
+		<Required_Special_Structures> Tier_III_Shipyard </Required_Special_Structures>
 		<Required_Planets></Required_Planets>
-		<Build_Cost_Credits>8250</Build_Cost_Credits>
-		<Build_Time_Seconds>90</Build_Time_Seconds>
+		<Build_Cost_Credits>6600</Build_Cost_Credits>
+		<Build_Time_Seconds>60</Build_Time_Seconds>
 		<Tactical_Bribe_Cost>4000</Tactical_Bribe_Cost>
 		<Score_Cost_Credits> 45000</Score_Cost_Credits>
 		<Tactical_Build_Cost_Multiplayer>7000</Tactical_Build_Cost_Multiplayer>
@@ -68,7 +68,7 @@
 			HP_Star_Destroyer_Shield_Generator_00,
 		</HardPoints>
 
-		<Population_Value>4</Population_Value>
+		<Population_Value>7</Population_Value>
 
 		<Armor_Type> Armor_Star_Destroyer </Armor_Type>
 		<Shield_Armor_Type>Shield_Capital</Shield_Armor_Type>
@@ -86,9 +86,9 @@
 		<Hyperspace_Speed>1</Hyperspace_Speed>
 		<Maintenance_Cost>0.3</Maintenance_Cost>
 		<Damage>70</Damage>
-		<Autoresolve_Health>7500</Autoresolve_Health>
-		<Shield_Points>5000</Shield_Points>
-		<Tactical_Health>7500</Tactical_Health> <!-- was 6000 -->
+		<Autoresolve_Health>6600</Autoresolve_Health>
+		<Shield_Points>3300</Shield_Points>
+		<Tactical_Health>6600</Tactical_Health> <!-- was 6000 -->
 		<Shield_Refresh_Rate>63</Shield_Refresh_Rate>
 		<Energy_Capacity>8000</Energy_Capacity>
 		<Energy_Refresh_Rate>800</Energy_Refresh_Rate>
@@ -195,6 +195,13 @@
 		<Radar_Icon_Name>i_radar_capital_ship_empire.tga</Radar_Icon_Name>
 		<Radar_Icon_Scale_Land>1.0</Radar_Icon_Scale_Land>
 		<Radar_Icon_Scale_Space>1.0</Radar_Icon_Scale_Space>
+
+	</SpaceUnit>
+
+	<SpaceUnit Name="Tector_ZeroCommand">
+
+		<Variant_Of_Existing_Type>Tector_Star_Destroyer_E</Variant_Of_Existing_Type>
+		<Affiliation>ZeroCommand</Affiliation>
 
 	</SpaceUnit>
 

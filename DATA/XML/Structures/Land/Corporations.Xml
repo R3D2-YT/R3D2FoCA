@@ -124,7 +124,7 @@
 		<Build_Cost_Credits>7500</Build_Cost_Credits>
 		<Build_Time_Seconds>30</Build_Time_Seconds>
 
-        <Affiliation>Empire</Affiliation>
+        <Affiliation>Empire, ZeroCommand</Affiliation>
         <Icon_Name>i_button_kdy.tga</Icon_Name>
 
         <Encyclopedia_Text> TEXT_ENCYCLOPEDIA_KDY  </Encyclopedia_Text>

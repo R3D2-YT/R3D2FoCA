@@ -176,6 +176,12 @@
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 		<Population_Value>2</Population_Value>
 	</SpaceUnit>
+
+	<SpaceUnit Name="Arquitens_Zero_Command">
+		<Variant_Of_Existing_Type>E_Arquitens</Variant_Of_Existing_Type>
+		<Affiliation>ZeroCommand</Affiliation>
+	</SpaceUnit>
+
 	<!--
 	<SpaceUnit Name="Rep_Arquitens">
 		<Variant_Of_Existing_Type>E_Arquitens</Variant_Of_Existing_Type>

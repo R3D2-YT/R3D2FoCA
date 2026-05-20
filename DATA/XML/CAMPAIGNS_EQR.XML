@@ -4,7 +4,7 @@
   <!-- ******************************************************************** -->
   <!-- ***** SANDBOX CAMPAIGN "Equal Footing - All Planets Populated" ***** -->
   <!-- ******************************************************************** -->
-    <Campaign Name="Sandbox_Equal_Footing_Revised_Underworld">
+    <Campaign Name="Sandbox_Equal_Footing_Revised_ZeroCommand">
 
         <Campaign_Set> Sandbox_Equal_Footing_Revised </Campaign_Set>
         <Sort_Order>1</Sort_Order>
@@ -219,11 +219,11 @@
         <Home_Location> Empire, EQR_Coruscant </Home_Location>
         <Home_Location> Underworld, EQR_Hypori </Home_Location>
 
-        <Starting_Active_Player> Underworld </Starting_Active_Player>
+        <Starting_Active_Player> ZeroCommand </Starting_Active_Player>
 
         <Rebel_Story_Name>Story_Plots_Sandbox_Rebel_EQR_AI.xml</Rebel_Story_Name>
         <Empire_Story_Name>Story_Plots_Sandbox_Empire_EQR_AI.xml</Empire_Story_Name>
-        <Underworld_Story_Name>Story_Plots_Sandbox_Underworld_EQR.xml</Underworld_Story_Name>
+        <Underworld_Story_Name>.xml</Underworld_Story_Name>
         
         <AI_Player_Control> Empire, BasicEmpire </AI_Player_Control>
         <AI_Player_Control> Rebel, BasicRebel </AI_Player_Control>
@@ -594,6 +594,41 @@
         <Starting_Forces> Rebel, EQR_Gerrenthum, R_Ground_Light_Vehicle_Factory </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Gerrenthum, Rebel_Infantry_Squad </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Gerrenthum, Rebel_Light_Tank_Brigade </Starting_Forces>
+
+         <!-- Zero Command Starting Forces -->
+
+        <Starting_Credits> ZeroCommand,  8000 </Starting_Credits>
+        <Starting_Tech_Level> ZeroCommand, 5 </Starting_Tech_Level>
+        <Max_Tech_Level> ZeroCommand, 5 </Max_Tech_Level>
+
+        <!-- Corulag Space Forces -->
+        <Starting_Forces> ZeroCommand, EQR_Corulag, ZeroCommand_Star_Base_2 </Starting_Forces>
+        <Starting_Forces> ZeroCommand, EQR_Corulag, TIE_Scout_Squadron </Starting_Forces>
+        <Starting_Forces> ZeroCommand, EQR_Corulag, Vindicator_Zero_Command </Starting_Forces>
+        <!-- Corulag Land Forces -->
+        <Starting_Forces> ZeroCommand, EQR_Corulag, Warlord_Barracks </Starting_Forces>
+        <Starting_Forces> ZeroCommand, EQR_Corulag, Imperial_Army_Trooper_Squad </Starting_Forces>
+        <Starting_Forces> ZeroCommand, EQR_Corulag, Imperial_Heavy_Scout_Squad </Starting_Forces>
+
+        <!-- Aargau(Duro) Space Forces -->
+        <Starting_Forces> ZeroCommand, EQR_Duro, ZeroCommand_Star_Base_3 </Starting_Forces>
+        <Starting_Forces> ZeroCommand, EQR_Duro, Vindicator_Zero_Command </Starting_Forces>
+        
+        <!-- Aargau(Duro) Land Forces -->
+        <Starting_Forces> ZeroCommand, EQR_Duro, Warlord_Barracks </Starting_Forces>
+        <Starting_Forces> ZeroCommand, EQR_Duro, Imperial_Army_Trooper_Squad </Starting_Forces>
+
+        <!-- Corellia Space Forces -->
+        <Starting_Forces> ZeroCommand, EQR_Corellia, ZeroCommand_Star_Base_2 </Starting_Forces>
+        <Starting_Forces> ZeroCommand, EQR_Corellia, Vindicator_Zero_Command </Starting_Forces>
+        <Starting_Forces> ZeroCommand, EQR_Corellia, Vindicator_Zero_Command </Starting_Forces>
+
+        <Starting_Forces> ZeroCommand, EQR_Corellia, Imperial_Army_Trooper_Squad </Starting_Forces>
+        <Starting_Forces> ZeroCommand, EQR_Corellia, Imperial_Army_Trooper_Squad </Starting_Forces>
+        <Starting_Forces> ZeroCommand, EQR_Corellia, Warlord_Light_Vehicle_Factory </Starting_Forces>
+        <Starting_Forces> ZeroCommand, EQR_Corellia, Warlord_Heavy_Vehicle_Factory </Starting_Forces>
+        <Starting_Forces> ZeroCommand, EQR_Corellia, Warlord_Advanced_Vehicle_Factory </Starting_Forces>
+
         
 
         <!-- Empire Starting Forces -->
@@ -601,7 +636,7 @@
         <Starting_Credits> Empire,  8000 </Starting_Credits>
         <Starting_Tech_Level> Empire, 5 </Starting_Tech_Level>
         <Max_Tech_Level> Empire, 5 </Max_Tech_Level>
-        
+
         <!-- Abregado_Rae Space Forces -->
         <Starting_Forces> Empire, EQR_Abregado_Rae, Empire_Star_Base_2 </Starting_Forces>
         <Starting_Forces> Empire, EQR_Abregado_Rae, TIE_Scout_Squadron </Starting_Forces>
@@ -651,15 +686,6 @@
         <Starting_Forces> Empire, EQR_Carida, E_Ground_Light_Vehicle_Factory </Starting_Forces>
         <Starting_Forces> Empire, EQR_Carida, Imperial_Army_Trooper_Squad </Starting_Forces>
         <Starting_Forces> Empire, EQR_Carida, Imperial_Heavy_Scout_Squad </Starting_Forces>
-        
-        <!-- Corulag Space Forces -->
-        <Starting_Forces> Empire, EQR_Corulag, Empire_Star_Base_2 </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Corulag, TIE_Scout_Squadron </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Corulag, Acclamator_Assault_Ship </Starting_Forces>
-        <!-- Corulag Land Forces -->
-        <Starting_Forces> Empire, EQR_Corulag, E_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Corulag, Imperial_Army_Trooper_Squad </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Corulag, Imperial_Heavy_Scout_Squad </Starting_Forces>
 
         <!-- Coruscant Space Forces -->
         <Starting_Forces> Empire, EQR_Coruscant, Empire_Star_Base_4 </Starting_Forces>
@@ -852,13 +878,6 @@
         <Starting_Forces> Empire, EQR_Balmorra, Imperial_Army_Trooper_Squad </Starting_Forces>
         <Starting_Forces> Empire, EQR_Balmorra, Imperial_Heavy_Scout_Squad </Starting_Forces>   
 
-        <!-- Aargau(Duro) Space Forces -->
-        <Starting_Forces> Empire, EQR_Duro, Empire_Star_Base_3 </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Duro, Acclamator_Assault_Ship </Starting_Forces>
-        
-        <!-- Aargau(Duro) Land Forces -->
-        <Starting_Forces> Empire, EQR_Duro, E_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Duro, Imperial_Army_Trooper_Squad </Starting_Forces>
 
         <!-- Jakku Space Forces -->
         <Starting_Forces> Empire, EQR_Jakku, Empire_Star_Base_3 </Starting_Forces>
@@ -1290,33 +1309,6 @@
         <Starting_Forces> Hutts, EQR_Mimban, Hutt_PLEX_Soldier_Squad </Starting_Forces>
         <Starting_Forces> Hutts, EQR_Mimban, Hutt_Skiff_Team </Starting_Forces>
         <Starting_Forces> Hutts, EQR_Mimban, Hutt_Skiff_Team </Starting_Forces>
-
-        <!-- Corellia Space Forces -->
-        <Starting_Forces> Hutts, EQR_Corellia, Hutt_Asteroid_Base </Starting_Forces>
-        <Starting_Forces> Hutts, EQR_Corellia, Pirate_Frigate </Starting_Forces>
-        <Starting_Forces> Hutts, EQR_Corellia, Pirate_Frigate </Starting_Forces>
-        <Starting_Forces> Hutts, EQR_Corellia, Pirate_Frigate </Starting_Forces>
-        <Starting_Forces> Hutts, EQR_Corellia, Pirate_Fighter_Squadron </Starting_Forces>
-        <Starting_Forces> Hutts, EQR_Corellia, Pirate_Fighter_Squadron </Starting_Forces>
-        <Starting_Forces> Hutts, EQR_Corellia, Pirate_Fighter_Squadron </Starting_Forces>
-        <Starting_Forces> Hutts, EQR_Corellia, Pirate_Fighter_Squadron </Starting_Forces>
-        <Starting_Forces> Hutts, EQR_Corellia, Pirate_Fighter_Squadron </Starting_Forces>
-        <Starting_Forces> Hutts, EQR_Corellia, IPV1_System_Patrol_Craft </Starting_Forces>
-        <Starting_Forces> Hutts, EQR_Corellia, IPV1_System_Patrol_Craft </Starting_Forces>
-        <Starting_Forces> Hutts, EQR_Corellia, IPV1_System_Patrol_Craft </Starting_Forces>
-        <Starting_Forces> Hutts, EQR_Corellia, Interceptor4_Frigate </Starting_Forces>
-        <Starting_Forces> Hutts, EQR_Corellia, Interceptor4_Frigate </Starting_Forces>
-        <Starting_Forces> Hutts, EQR_Corellia, Hutt_Refurbished_Venator </Starting_Forces>
-        <Starting_Forces> Hutts, EQR_Corellia, Hutt_Refurbished_Venator </Starting_Forces>
-                
-        <!-- Corellia Land Forces -->
-        <Starting_Forces> Hutts, EQR_Corellia, Pirate_Command_Center </Starting_Forces>
-        <Starting_Forces> Hutts, EQR_Corellia, Hutt_Soldier_Squad </Starting_Forces>
-        <Starting_Forces> Hutts, EQR_Corellia, Hutt_Soldier_Squad </Starting_Forces>
-        <Starting_Forces> Hutts, EQR_Corellia, Hutt_Soldier_Squad </Starting_Forces>
-        <Starting_Forces> Hutts, EQR_Corellia, Hutt_PLEX_Soldier_Squad </Starting_Forces>
-        <Starting_Forces> Hutts, EQR_Corellia, Hutt_Skiff_Team </Starting_Forces>
-        <Starting_Forces> Hutts, EQR_Corellia, Hutt_Skiff_Team </Starting_Forces>
 
         <!-- Myrkr Space Forces -->
         <Starting_Forces> Hutts, EQR_Myrkr, Hutt_Asteroid_Base </Starting_Forces>
