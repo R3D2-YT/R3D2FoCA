@@ -368,7 +368,7 @@
 		<Damage>100</Damage>
 		<Combat_Power_Value>0</Combat_Power_Value>
 		
-		<Tech_Level>5</Tech_Level>
+		<Tech_Level>99</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 		<Required_Special_Structures>Tier_III_Shipyard</Required_Special_Structures>

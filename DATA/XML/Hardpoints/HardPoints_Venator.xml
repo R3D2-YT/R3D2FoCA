@@ -27,7 +27,7 @@
             <Fire_Bone_B>MuzzleA_00</Fire_Bone_B>
             <Fire_Cone_Width>175.0</Fire_Cone_Width>
             <Fire_Cone_Height>160.0</Fire_Cone_Height>
-            <Fire_Projectile_Type>Proj_Ship_Turbolaser_Red</Fire_Projectile_Type>
+            <Fire_Projectile_Type>Proj_Ship_Turbolaser_Green</Fire_Projectile_Type>
             <Fire_Min_Recharge_Seconds>3.0</Fire_Min_Recharge_Seconds>
             <Fire_Max_Recharge_Seconds>4.0</Fire_Max_Recharge_Seconds>
             <Fire_Pulse_Count>2</Fire_Pulse_Count>
@@ -69,7 +69,7 @@
 		<Fire_Bone_B>MuzzleA_01</Fire_Bone_B>
 		<Fire_Cone_Width>175.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
-		<Fire_Projectile_Type>Proj_Ship_Turbolaser_Red</Fire_Projectile_Type>
+		<Fire_Projectile_Type>Proj_Ship_Turbolaser_Green</Fire_Projectile_Type>
 		<Fire_Min_Recharge_Seconds>3.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>4.0</Fire_Max_Recharge_Seconds>
 		<Fire_Pulse_Count>2</Fire_Pulse_Count>
@@ -111,7 +111,7 @@
 		<Fire_Bone_B>MuzzleA_02</Fire_Bone_B>
 		<Fire_Cone_Width>175.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
-		<Fire_Projectile_Type>Proj_Ship_Turbolaser_Red</Fire_Projectile_Type>
+		<Fire_Projectile_Type>Proj_Ship_Turbolaser_Green</Fire_Projectile_Type>
 		<Fire_Min_Recharge_Seconds>3.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>4.0</Fire_Max_Recharge_Seconds>
 		<Fire_Pulse_Count>2</Fire_Pulse_Count>
@@ -153,7 +153,7 @@
 		<Fire_Bone_B>MuzzleA_03</Fire_Bone_B>
 		<Fire_Cone_Width>175.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
-		<Fire_Projectile_Type>Proj_Ship_Turbolaser_Red</Fire_Projectile_Type>
+		<Fire_Projectile_Type>Proj_Ship_Turbolaser_Green</Fire_Projectile_Type>
 		<Fire_Min_Recharge_Seconds>3.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>4.0</Fire_Max_Recharge_Seconds>
 		<Fire_Pulse_Count>2</Fire_Pulse_Count>
@@ -195,7 +195,7 @@
 		<Fire_Bone_B>MuzzleA_04</Fire_Bone_B>
 		<Fire_Cone_Width>175.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
-		<Fire_Projectile_Type>Proj_Ship_Turbolaser_Red</Fire_Projectile_Type>
+		<Fire_Projectile_Type>Proj_Ship_Turbolaser_Green</Fire_Projectile_Type>
 		<Fire_Min_Recharge_Seconds>3.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>4.0</Fire_Max_Recharge_Seconds>
 		<Fire_Pulse_Count>2</Fire_Pulse_Count>
@@ -237,7 +237,7 @@
 		<Fire_Bone_B>MuzzleA_05</Fire_Bone_B>
 		<Fire_Cone_Width>175.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
-		<Fire_Projectile_Type>Proj_Ship_Turbolaser_Red</Fire_Projectile_Type>
+		<Fire_Projectile_Type>Proj_Ship_Turbolaser_Green</Fire_Projectile_Type>
 		<Fire_Min_Recharge_Seconds>3.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>4.0</Fire_Max_Recharge_Seconds>
 		<Fire_Pulse_Count>2</Fire_Pulse_Count>
@@ -279,7 +279,7 @@
 		<Fire_Bone_B>MuzzleA_06</Fire_Bone_B>
 		<Fire_Cone_Width>175.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
-		<Fire_Projectile_Type>Proj_Ship_Turbolaser_Red</Fire_Projectile_Type>
+		<Fire_Projectile_Type>Proj_Ship_Turbolaser_Green</Fire_Projectile_Type>
 		<Fire_Min_Recharge_Seconds>3.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>4.0</Fire_Max_Recharge_Seconds>
 		<Fire_Pulse_Count>2</Fire_Pulse_Count>
@@ -321,7 +321,7 @@
 		<Fire_Bone_B>MuzzleA_07</Fire_Bone_B>
 		<Fire_Cone_Width>175.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
-		<Fire_Projectile_Type>Proj_Ship_Turbolaser_Red</Fire_Projectile_Type>
+		<Fire_Projectile_Type>Proj_Ship_Turbolaser_Green</Fire_Projectile_Type>
 		<Fire_Min_Recharge_Seconds>3.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>4.0</Fire_Max_Recharge_Seconds>
 		<Fire_Pulse_Count>2</Fire_Pulse_Count>
@@ -363,7 +363,7 @@
             <Fire_Bone_B>MuzzleB_00</Fire_Bone_B>
             <Fire_Cone_Width>175.0</Fire_Cone_Width>
             <Fire_Cone_Height>160.0</Fire_Cone_Height>
-            <Fire_Projectile_Type>Proj_Ship_Medium_Laser_Cannon_Red</Fire_Projectile_Type>
+            <Fire_Projectile_Type>Proj_Ship_Medium_Laser_Cannon_Green</Fire_Projectile_Type>
             <Fire_Min_Recharge_Seconds>3.0</Fire_Min_Recharge_Seconds>
             <Fire_Max_Recharge_Seconds>4.0</Fire_Max_Recharge_Seconds>
             <Fire_Pulse_Count>7</Fire_Pulse_Count>
@@ -405,7 +405,7 @@
 		<Fire_Bone_B>MuzzleB_01</Fire_Bone_B>
 		<Fire_Cone_Width>175.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
-		<Fire_Projectile_Type>Proj_Ship_Medium_Laser_Cannon_Red</Fire_Projectile_Type>
+		<Fire_Projectile_Type>Proj_Ship_Medium_Laser_Cannon_Green</Fire_Projectile_Type>
 		<Fire_Min_Recharge_Seconds>3.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>4.0</Fire_Max_Recharge_Seconds>
 		<Fire_Pulse_Count>7</Fire_Pulse_Count>
@@ -447,7 +447,7 @@
 		<Fire_Bone_B>MuzzleB_02</Fire_Bone_B>
 		<Fire_Cone_Width>175.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
-		<Fire_Projectile_Type>Proj_Ship_Medium_Laser_Cannon_Red</Fire_Projectile_Type>
+		<Fire_Projectile_Type>Proj_Ship_Medium_Laser_Cannon_Green</Fire_Projectile_Type>
 		<Fire_Min_Recharge_Seconds>3.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>4.0</Fire_Max_Recharge_Seconds>
 		<Fire_Pulse_Count>7</Fire_Pulse_Count>
@@ -489,7 +489,7 @@
 		<Fire_Bone_B>MuzzleB_03</Fire_Bone_B>
 		<Fire_Cone_Width>175.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
-		<Fire_Projectile_Type>Proj_Ship_Medium_Laser_Cannon_Red</Fire_Projectile_Type>
+		<Fire_Projectile_Type>Proj_Ship_Medium_Laser_Cannon_Green</Fire_Projectile_Type>
 		<Fire_Min_Recharge_Seconds>3.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>4.0</Fire_Max_Recharge_Seconds>
 		<Fire_Pulse_Count>7</Fire_Pulse_Count>
@@ -531,7 +531,7 @@
 		<Fire_Bone_B>MuzzleB_04</Fire_Bone_B>
 		<Fire_Cone_Width>175.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
-		<Fire_Projectile_Type>Proj_Ship_Medium_Laser_Cannon_Red</Fire_Projectile_Type>
+		<Fire_Projectile_Type>Proj_Ship_Medium_Laser_Cannon_Green</Fire_Projectile_Type>
 		<Fire_Min_Recharge_Seconds>3.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>4.0</Fire_Max_Recharge_Seconds>
 		<Fire_Pulse_Count>7</Fire_Pulse_Count>
@@ -573,7 +573,7 @@
 		<Fire_Bone_B>MuzzleB_05</Fire_Bone_B>
 		<Fire_Cone_Width>175.0</Fire_Cone_Width>
 		<Fire_Cone_Height>160.0</Fire_Cone_Height>
-		<Fire_Projectile_Type>Proj_Ship_Medium_Laser_Cannon_Red</Fire_Projectile_Type>
+		<Fire_Projectile_Type>Proj_Ship_Medium_Laser_Cannon_Green</Fire_Projectile_Type>
 		<Fire_Min_Recharge_Seconds>3.0</Fire_Min_Recharge_Seconds>
 		<Fire_Max_Recharge_Seconds>4.0</Fire_Max_Recharge_Seconds>
 		<Fire_Pulse_Count>7</Fire_Pulse_Count>

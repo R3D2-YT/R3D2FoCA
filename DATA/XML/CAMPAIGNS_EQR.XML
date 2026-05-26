@@ -3397,6 +3397,7 @@
         
         <!-- Coruscant Land Forces -->
         <Starting_Forces> Empire, EQR_Coruscant, E_Ground_Barracks </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Coruscant, General_Veers_Team </Starting_Forces>
         <Starting_Forces> Empire, EQR_Coruscant, Imperial_Army_Trooper_Squad </Starting_Forces>
         <Starting_Forces> Empire, EQR_Coruscant, Imperial_Heavy_Scout_Squad </Starting_Forces>
         
