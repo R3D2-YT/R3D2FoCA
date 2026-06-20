@@ -110,6 +110,9 @@
 	<File>UNITS\SPACE\FIGHTERS\Units_Space_Empire_TIE_Interceptor.xml</File>
 	<File>UNITS\SPACE\FIGHTERS\Units_Space_Empire_TIE_Phantom.xml</File>
 
+	<!-- Corvettes-->
+	<File>UNITS\SPACE\CORVETTE\UNITS_SPACE_RAIDER.XML</File>
+
 	<!-- Frigates -->
 
 	<File>UNITS\SPACE\FRIGATE\UNITS_SPACE_LANCER.XML</File>

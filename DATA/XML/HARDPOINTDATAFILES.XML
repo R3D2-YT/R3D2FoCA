@@ -7,6 +7,10 @@
 
 	<!-- Fighters -->
 
+	<!-- Corvettes -->
+	<File>Hardpoints\HardPoints_Raider_I.xml</File>
+	<File>Hardpoints\HardPoints_Raider_II.xml</File>
+
 	<!-- Frigates -->
 
 	<File>Hardpoints\HardPoints_Lancer.xml</File>
