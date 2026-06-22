@@ -8,7 +8,7 @@
 		<Select_Box_Scale>330</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-30</Select_Box_Z_Adjust>
 		<Is_Dummy>Yes</Is_Dummy>
-		<Affiliation>Empire, Rebel, Underworld, Independant, ZeroCommand</Affiliation>
+		<Affiliation>Empire, Rebel, Underworld, Independant, ZeroCommand, Pentastar</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Build_Cost_Credits>1500</Build_Cost_Credits>
 		<Build_Time_Seconds>60</Build_Time_Seconds>
@@ -80,7 +80,7 @@
 		<Select_Box_Scale>330</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-30</Select_Box_Z_Adjust>
 		<Is_Dummy>Yes</Is_Dummy>
-		<Affiliation>Empire, Rebel, Underworld, Independant, ZeroCommand</Affiliation>
+		<Affiliation>Empire, Rebel, Underworld, Independant, ZeroCommand, Pentastar</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Build_Cost_Credits>3000</Build_Cost_Credits>
 		<Build_Time_Seconds>60</Build_Time_Seconds>
@@ -152,7 +152,7 @@
 		<Select_Box_Scale>330</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-30</Select_Box_Z_Adjust>
 		<Is_Dummy>Yes</Is_Dummy>
-		<Affiliation>Empire, Rebel, Underworld, Independant, ZeroCommand</Affiliation>
+		<Affiliation>Empire, Rebel, Underworld, Independant, ZeroCommand, Pentastar</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Build_Cost_Credits>7500</Build_Cost_Credits>
 		<Build_Time_Seconds>60</Build_Time_Seconds>

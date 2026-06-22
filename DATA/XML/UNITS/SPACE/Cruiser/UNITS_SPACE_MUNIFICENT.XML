@@ -176,9 +176,22 @@
 	<SpaceUnit Name="CIS_Munificent">
 		<Variant_Of_Existing_Type>Munificent</Variant_Of_Existing_Type>
 		<Affiliation>Rebel</Affiliation>
+		<Tech_Level>99</Tech_Level>
 		<Starting_Spawned_Units_Tech_0>Vulture_Squadron, 2</Starting_Spawned_Units_Tech_0>
 
 		<Reserve_Spawned_Units_Tech_0>Vulture_Squadron, 6</Reserve_Spawned_Units_Tech_0>
+		<HardPoints>
+			HP_Munificent_Weapon_00, HP_Munificent_Weapon_01, HP_Munificent_Weapon_02, HP_Munificent_Weapon_03, HP_Munificent_Weapon_04, HP_Munificent_Weapon_05, HP_Munificent_Weapon_06, HP_Munificent_Engines_01, HP_Munificent_Fighter_Bay
+		</HardPoints>
+	</SpaceUnit>
+
+	<SpaceUnit Name="Pentastar_Munificent">
+		<Variant_Of_Existing_Type>Munificent</Variant_Of_Existing_Type>
+		<Affiliation>Pentastar</Affiliation>
+		<Tech_Level>99</Tech_Level>
+		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 2</Starting_Spawned_Units_Tech_0>
+
+		<Reserve_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 6</Reserve_Spawned_Units_Tech_0>
 		<HardPoints>
 			HP_Munificent_Weapon_00, HP_Munificent_Weapon_01, HP_Munificent_Weapon_02, HP_Munificent_Weapon_03, HP_Munificent_Weapon_04, HP_Munificent_Weapon_05, HP_Munificent_Weapon_06, HP_Munificent_Engines_01, HP_Munificent_Fighter_Bay
 		</HardPoints>

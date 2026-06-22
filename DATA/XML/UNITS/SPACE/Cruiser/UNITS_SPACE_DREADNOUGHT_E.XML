@@ -45,7 +45,7 @@
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures>Tier_II_Shipyard, Rendili</Required_Special_Structures>
+		<Required_Special_Structures>Tier_II_Shipyard</Required_Special_Structures>
 		<Required_Planets />
 		<Ship_Class>frigate</Ship_Class>
 		<Formation_Priority>3</Formation_Priority>
@@ -184,6 +184,17 @@
 		<Starting_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 2</Starting_Spawned_Units_Tech_0>
 
 		<Reserve_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 6</Reserve_Spawned_Units_Tech_0>
+		<HardPoints>
+			HP_Dreadnought_Weapon_05, HP_Dreadnought_Weapon_04, HP_Dreadnought_Weapon_03, HP_Dreadnought_Weapon_02, HP_Dreadnought_Weapon_01, HP_Dreadnought_Weapon_00, HP_Dreadnought_Fighter_Bay, HP_Dreadnought_Engines_01
+		</HardPoints>
+	</SpaceUnit>
+
+	<SpaceUnit Name="Pentastar_Dreadnought">
+		<Variant_Of_Existing_Type>Dreadnought_No_Fighters</Variant_Of_Existing_Type>
+		<Affiliation>Pentastar</Affiliation>
+		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 2</Starting_Spawned_Units_Tech_0>
+
+		<Reserve_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 6</Reserve_Spawned_Units_Tech_0>
 		<HardPoints>
 			HP_Dreadnought_Weapon_05, HP_Dreadnought_Weapon_04, HP_Dreadnought_Weapon_03, HP_Dreadnought_Weapon_02, HP_Dreadnought_Weapon_01, HP_Dreadnought_Weapon_00, HP_Dreadnought_Fighter_Bay, HP_Dreadnought_Engines_01
 		</HardPoints>

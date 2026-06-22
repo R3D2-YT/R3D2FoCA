@@ -231,6 +231,77 @@
 
 	</GroundCompany>
 
+	<GroundCompany Name="Lancet_Air_Wing_Pentastar">
+		<Text_ID>TEXT_IMPERIAL_LANCET_WING</Text_ID>
+		<Encyclopedia_Good_Against> U_Ground_Vehicle_Factory T4B_Tank </Encyclopedia_Good_Against>
+		<Encyclopedia_Vulnerable_To> Rebel_Anti_Aircraft_Turret Underworld_Mass_Driver_Turret Canderous_Assault_Tank </Encyclopedia_Vulnerable_To>
+		<Encyclopedia_Text>TEXT_TOOLTIP_LANCET</Encyclopedia_Text>
+		<Encyclopedia_Unit_Class>TEXT_ENCYCLOPEDIA_CLASS_SPEEDER</Encyclopedia_Unit_Class>
+		<Icon_Name>i_button_ev_tie_lancet.tga</Icon_Name>
+		<No_Colorization_Color> 75, 75, 75, 255 </No_Colorization_Color>
+		<Select_Box_Scale>100</Select_Box_Scale>
+                <GUI_Bounds_Scale>0.35</GUI_Bounds_Scale>
+
+		<GUI_Row> 1 </GUI_Row>
+		<Is_Dummy>Yes</Is_Dummy>
+		<Damage>60</Damage>
+		<Autoresolve_Health>100</Autoresolve_Health>
+		<Affiliation>Pentastar</Affiliation>
+		<Build_Cost_Credits>750</Build_Cost_Credits>
+		<Build_Time_Seconds>40</Build_Time_Seconds>
+		<Build_Time_Reduced_By_Multiple_Factories> Yes </Build_Time_Reduced_By_Multiple_Factories>
+		<Build_Tab_Land_Units>Yes</Build_Tab_Land_Units>
+		<Tech_Level>4</Tech_Level>
+		<Required_Timeline>0</Required_Timeline>
+		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
+		<Required_Star_Base_Level>0</Required_Star_Base_Level>
+		<Required_Special_Structures>Warlord_Advanced_Vehicle_Factory</Required_Special_Structures>
+		<Required_Planets />
+		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
+		<Formation_Priority>6</Formation_Priority>
+		<Is_Escort>no</Is_Escort>
+		<Ship_Class>artillery</Ship_Class>
+		<Company_Transport_Unit>Imperial_Landing_Craft</Company_Transport_Unit>
+		<Company_Units>Lancet_Air_Artillery, Lancet_Air_Artillery, Lancet_Air_Artillery</Company_Units>
+		<Max_Squad_Size> 1 </Max_Squad_Size>
+		<SFXEvent_Build_Started>EHD_Build_Vehicle</SFXEvent_Build_Started>
+		<SFXEvent_Build_Cancelled>EHD_Vehicle_Canceled</SFXEvent_Build_Cancelled>
+		<SFXEvent_Build_Complete>Unit_Complete_Lancet</SFXEvent_Build_Complete>
+		<SFXEvent_Fleet_Move>Unit_Fleet_Move_Lancet</SFXEvent_Fleet_Move>
+		<Score_Cost_Credits>650</Score_Cost_Credits>
+		<Maintenance_Cost>0.05</Maintenance_Cost>
+		<Population_Value>1</Population_Value>
+
+		<!--<MULTIPLAYER SKIRMISH VALUES BEGIN>-->
+		<Tactical_Build_Cost_Multiplayer>1100</Tactical_Build_Cost_Multiplayer>
+		<Tactical_Build_Time_Seconds>23</Tactical_Build_Time_Seconds>
+		<Tactical_Build_Prerequisites>EC_Level_Three_Tech_Upgrade</Tactical_Build_Prerequisites>
+		<Tactical_Production_Queue>Tactical_Units</Tactical_Production_Queue>
+		<!--<Build_Limit_Current_Per_Player>0</Build_Limit_Current_Per_Player>-->
+		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
+		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
+
+        <Abilities SubObjectList="Yes">
+
+            <Drain_Life_Ability Name="Lancet_Drain_Life">
+                <Activation_Style> Special_Attack </Activation_Style>
+                <Applicable_Unit_Categories> Structure | Vehicle |Infantry | LandHero </Applicable_Unit_Categories>
+                <Duration_In_Seconds>99999</Duration_In_Seconds>
+                <Damage_Per_Second>20</Damage_Per_Second>
+                <Drain_Effect_Name>Lancet_Drain_Life_Effect</Drain_Effect_Name>	
+                <Drain_Source_Bone_Name>HP_TRAC_BONE</Drain_Source_Bone_Name>
+                <Drain_Radius> 150.0 </Drain_Radius>		
+                <SFXEvent_Activate>Unit_Force_Lightning</SFXEvent_Activate>
+                <Max_Drain_Victims>1</Max_Drain_Victims>
+                <Should_Heal>No</Should_Heal>
+                <Charging_Time_In_Seconds>2.0</Charging_Time_In_Seconds>
+                <Activation_Max_Range>200.0</Activation_Max_Range>
+            </Drain_Life_Ability>
+
+        </Abilities>
+
+	</GroundCompany>
+
 
 
 

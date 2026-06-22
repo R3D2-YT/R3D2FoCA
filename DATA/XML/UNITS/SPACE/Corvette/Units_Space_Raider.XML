@@ -36,7 +36,7 @@
 		<Hyperspace_Speed>1.5</Hyperspace_Speed>
 		<Maintenance_Cost>0.05</Maintenance_Cost>
 
-		<Affiliation>Empire</Affiliation>
+		<Affiliation>Empire, Pentastar</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -200,7 +200,7 @@
 		<Hyperspace_Speed>1.5</Hyperspace_Speed>
 		<Maintenance_Cost>0.05</Maintenance_Cost>
 
-		<Affiliation>Empire</Affiliation>
+		<Affiliation>Pentastar</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -219,7 +219,7 @@
 		<Squadron_Capacity>5</Squadron_Capacity>
 		<Transport_Capacity>4</Transport_Capacity>
 		<Number_per_Squadron>1</Number_per_Squadron>
-		<Build_Cost_Credits>800</Build_Cost_Credits>
+		<Build_Cost_Credits>825</Build_Cost_Credits>
 		<Piracy_Value_Credits>50</Piracy_Value_Credits>
 		<AI_Combat_Power>800</AI_Combat_Power>
 		<Build_Time_Seconds>13</Build_Time_Seconds>
@@ -243,7 +243,7 @@
 		<Targeting_Max_Attack_Distance>800.0</Targeting_Max_Attack_Distance>
 
 		<CategoryMask> Corvette | AntiFighter | AntiBomber </CategoryMask>
-		<Icon_Name>i_button_raider_corvette.tga</Icon_Name>
+		<Icon_Name>i_button_raider_corvette2.tga</Icon_Name>
 		<GUI_Model_Name>EV_RaiderCorvette.alo</GUI_Model_Name>
 		<GUI_Distance>900</GUI_Distance>
 		<GUI_Offset>0 0 0</GUI_Offset>

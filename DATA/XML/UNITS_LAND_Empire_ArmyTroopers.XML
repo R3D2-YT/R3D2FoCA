@@ -51,7 +51,7 @@
 		<Is_Dummy>Yes</Is_Dummy>
 		<Damage>18</Damage>
 		<Autoresolve_Health>80</Autoresolve_Health> <!-- changed to reflect the real health of the units-->
-		<Affiliation>Empire, ZeroCommand</Affiliation>
+		<Affiliation>Empire, ZeroCommand, Pentastar</Affiliation>
 		<Build_Cost_Credits>45</Build_Cost_Credits>
 		<Piracy_Value_Credits>50</Piracy_Value_Credits>
 		<Build_Time_Seconds>10</Build_Time_Seconds>

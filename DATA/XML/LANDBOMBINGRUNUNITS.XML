@@ -229,7 +229,7 @@
 		<!--<Is_Sprite>No</Is_Sprite>-->
 		<Type>Fly</Type>
 		<Deploys>No</Deploys>
-		<Affiliation>Empire</Affiliation>
+		<Affiliation>Empire, ZeroCommand</Affiliation>
 		<Size_Value>15</Size_Value>
 
 		<No_Colorization_Color> 75, 75, 75, 255 </No_Colorization_Color>

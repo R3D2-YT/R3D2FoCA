@@ -874,7 +874,7 @@
 
 		<Influences_Capture_Point>True</Influences_Capture_Point>
 		<Control_Point_Domination_Condition_Relevant>Yes</Control_Point_Domination_Condition_Relevant>
-		<Affiliation>Neutral, Rebel, ZeroCommand, Empire, Pirates, Underworld, Hutts</Affiliation>
+		<Affiliation>Neutral, Rebel, ZeroCommand, Empire, Pentastar, Pirates, Underworld, Hutts</Affiliation>
 		<Last_State_Visible_Under_FOW> Yes </Last_State_Visible_Under_FOW>
 		<Initial_State_Visible_Under_FOW>True</Initial_State_Visible_Under_FOW>
 		<Additional_Population_Capacity>100</Additional_Population_Capacity>
@@ -1026,6 +1026,16 @@
 
 	<Marker Name="Reinforcement_Point_ZeroCommand_Plus4_Cap">
 		<Variant_Of_Existing_Type>Reinforcement_Point_ZeroCommand</Variant_Of_Existing_Type>
+		<Additional_Population_Capacity>4</Additional_Population_Capacity>
+	</Marker>
+
+	<Marker Name="Reinforcement_Point_Pentastar">
+		<Variant_Of_Existing_Type>Reinforcement_Point_Empire</Variant_Of_Existing_Type>
+		<Affiliation>Pentastar</Affiliation>
+	</Marker>
+
+	<Marker Name="Reinforcement_Point_Pentastar_Plus4_Cap">
+		<Variant_Of_Existing_Type>Reinforcement_Point_Pentastar</Variant_Of_Existing_Type>
 		<Additional_Population_Capacity>4</Additional_Population_Capacity>
 	</Marker>
 

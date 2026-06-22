@@ -40,12 +40,12 @@
 		<Energy_Capacity>3000</Energy_Capacity>
 		<Energy_Refresh_Rate>400</Energy_Refresh_Rate>
 
-		<Affiliation>Empire</Affiliation>
-		<Tech_Level>99</Tech_Level>
+		<Affiliation>Neutral</Affiliation>
+		<Tech_Level>0</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures>Tier_II_Shipyard, KDY</Required_Special_Structures>
+		<Required_Special_Structures>Tier_II_Shipyard</Required_Special_Structures>
 		<Required_Planets />
 		<Ship_Class>frigate</Ship_Class>
 		<Formation_Priority>3</Formation_Priority>
@@ -353,6 +353,26 @@
 		<!--<Build_Limit_Current_Per_Player>0</Build_Limit_Current_Per_Player>-->
 		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
+		<Population_Value>4</Population_Value>
+	</SpaceUnit>
+
+	<SpaceUnit Name="Acclamator_Assault_Ship_Pentastar">
+		<Variant_Of_Existing_Type>Acclamator_Assault_Ship_No_Fighters</Variant_Of_Existing_Type>
+
+		<Affiliation>Pentastar</Affiliation>
+
+		<Tech_Level>0</Tech_Level>
+
+		<Required_Special_Structures>Tier_II_Shipyard</Required_Special_Structures>
+
+		<!-- Set to spawn all units once and then not continue - no reserves -->
+		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 1</Starting_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
+		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
+		<!--Currently no reserves -->
+		<Reserve_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 4</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 4</Reserve_Spawned_Units_Tech_0> 
+
 		<Population_Value>4</Population_Value>
 	</SpaceUnit>
 

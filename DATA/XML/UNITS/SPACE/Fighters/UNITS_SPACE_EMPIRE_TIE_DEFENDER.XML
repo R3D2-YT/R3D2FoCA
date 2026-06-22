@@ -241,6 +241,11 @@
 
 	</Squadron>
 
+	<SpaceUnit Name="TIE_Defender_Squadron_Pentastar">
+		<Variant_Of_Existing_Type>TIE_Defender_Squadron</Variant_Of_Existing_Type>
+		<Affiliation>Pentastar</Affiliation>
+	</SpaceUnit>
+
 
 
 	<Container Name="TIE_Defender_Squadron_Container">

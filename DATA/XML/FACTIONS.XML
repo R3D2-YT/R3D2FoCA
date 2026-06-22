@@ -749,7 +749,7 @@
 
 
 		<Allies />
-		<Enemies>Empire, ZeroCommand, Pirates, Hostile, Sarlacc, Underworld, Hutts</Enemies>
+		<Enemies>Empire, ZeroCommand, Pirates, Pentastar, Hostile, Sarlacc, Underworld, Hutts</Enemies>
 		
 		<Can_Control_Planets>true</Can_Control_Planets>
 
@@ -820,7 +820,7 @@
 		<Hyperspace_Speed_Factor>0.07</Hyperspace_Speed_Factor>
 		<Is_Neutral> No </Is_Neutral>
 		<Force_Alignment>Dark</Force_Alignment>
-		<Minimum_Visible_Base_Level>3</Minimum_Visible_Base_Level>
+		<Minimum_Visible_Base_Level>1</Minimum_Visible_Base_Level>
 		<Basic_AI>BasicEmpire</Basic_AI>
 		<Faction_Super_Weapon> Death_Star </Faction_Super_Weapon>
 		<Skirmish_Land_Bomber> TIE_Bomber_Bombing_Run </Skirmish_Land_Bomber>
@@ -1511,7 +1511,7 @@
 		<!-- End Droid Advisor Speech/Text -->
 
 		<Allies />
-		<Enemies>Rebel, ZeroCommand, Pirates, Hostile, Target, Sarlacc, Underworld, Hutts</Enemies>
+		<Enemies>Rebel, ZeroCommand, Pirates, Hostile, Pentastar, Target, Sarlacc, Underworld, Hutts</Enemies>
 		
 		<Can_Control_Planets>true</Can_Control_Planets>
 
@@ -1589,7 +1589,7 @@
 		<Scatters_From_Crushers> true </Scatters_From_Crushers>
 
 		<Allies />
-		<Enemies>Empire, Rebel, Hostile, Sarlacc, Underworld, Hutts</Enemies>
+		<Enemies>Empire, Rebel, Hostile, ZeroCommand, Pentastar, Sarlacc, Underworld, Hutts</Enemies>
 		<Easily_Bribed> Yes </Easily_Bribed>
 
 		<Can_Control_Planets>true</Can_Control_Planets>
@@ -1671,7 +1671,7 @@
 		<Selection_Blob_RGBA>0,255,0,255</Selection_Blob_RGBA>
 
 		<Allies>Neutral</Allies>
-		<Enemies>Empire, Rebel, Pirates, Sarlacc, Underworld</Enemies>
+		<Enemies>Empire, Rebel, Pirates, ZeroCommand, Pentastar, Sarlacc, Underworld</Enemies>
 
 	</Faction>
 
