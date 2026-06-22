@@ -2,7 +2,7 @@
 
 <REP_PDF_Gladiator>
 	
-	<SpaceUnit Name="Gladiator">
+	<SpaceUnit Name="Genaric_Gladiator">
 		<Text_ID>TEXT_UNIT_GLADIATOR</Text_ID>
 		<Encyclopedia_Good_Against> Corellian_Corvette Corellian_Gunboat Crusader_Gunship </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> Y-wing Skipray_Blastboat Calamari_Cruiser </Encyclopedia_Vulnerable_To>
@@ -40,7 +40,7 @@
 		<Energy_Capacity>3000</Energy_Capacity>
 		<Energy_Refresh_Rate>500</Energy_Refresh_Rate>
 
-		<Affiliation>Empire</Affiliation>
+		<Affiliation>Neutral</Affiliation>
 		<Tech_Level>1</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
@@ -76,12 +76,6 @@
 		<HardPoints>
 			HP_Gladiator_Weapon_05, HP_Gladiator_Weapon_04, HP_Gladiator_Weapon_03, HP_Gladiator_Weapon_02, HP_Gladiator_Weapon_01, HP_Gladiator_Weapon_00, HP_Gladiator_Fighter_Bay, HP_Gladiator_Engines_01
 		</HardPoints>
-		
-		<Starting_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 1</Starting_Spawned_Units_Tech_0>
-		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
-		
-		<Reserve_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 3</Reserve_Spawned_Units_Tech_0> 
-		<Reserve_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 3</Reserve_Spawned_Units_Tech_0> 
 
 		<CategoryMask> Frigate | AntiCorvette</CategoryMask>
 		<Icon_Name>i_button_gladiator.tga</Icon_Name>
@@ -182,6 +176,42 @@
 		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 		<Population_Value>5</Population_Value>
+	</SpaceUnit>
+
+	<SpaceUnit Name="Gladiator">
+		<Variant_Of_Existing_Type>Genaric_Gladiator</Variant_Of_Existing_Type>
+		<Affiliation>Empire</Affiliation>
+
+		<Starting_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 1</Starting_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
+		
+		<Reserve_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 3</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 3</Reserve_Spawned_Units_Tech_0> 
+
+	</SpaceUnit>
+
+	<SpaceUnit Name="Gladiator_Pentastar">
+		<Variant_Of_Existing_Type>Gladiator</Variant_Of_Existing_Type>
+		<Affiliation>Pentastar</Affiliation>
+
+		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 1</Starting_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
+		
+		<Reserve_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 3</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 3</Reserve_Spawned_Units_Tech_0> 
+
+	</SpaceUnit>
+
+	<SpaceUnit Name="Gladiator_Zero_Command">
+		<Variant_Of_Existing_Type>Gladiator</Variant_Of_Existing_Type>
+		<Affiliation>ZeroCommand</Affiliation>
+
+		<Starting_Spawned_Units_Tech_0>TIE_Brute_Squadron, 1</Starting_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
+		
+		<Reserve_Spawned_Units_Tech_0>TIE_Brute_Squadron, 3</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 3</Reserve_Spawned_Units_Tech_0> 
+
 	</SpaceUnit>
 
 

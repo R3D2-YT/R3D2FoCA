@@ -182,6 +182,11 @@
 		<Affiliation>ZeroCommand</Affiliation>
 	</SpaceUnit>
 
+	<SpaceUnit Name="Pentastar_Arquitens">
+		<Variant_Of_Existing_Type>E_Arquitens</Variant_Of_Existing_Type>
+		<Affiliation>Pentastar</Affiliation>
+	</SpaceUnit>
+
 	<!--
 	<SpaceUnit Name="Rep_Arquitens">
 		<Variant_Of_Existing_Type>E_Arquitens</Variant_Of_Existing_Type>
@@ -196,11 +201,6 @@
 		<Variant_Of_Existing_Type>E_Arquitens</Variant_Of_Existing_Type>
 		<Affiliation>Player</Affiliation>
 		<Required_Special_Structures>KDY_Player</Required_Special_Structures>
-	</SpaceUnit>
-	
-	<SpaceUnit Name="Pentastar_Arquitens">
-		<Variant_Of_Existing_Type>E_Arquitens</Variant_Of_Existing_Type>
-		<Affiliation>Pentastar</Affiliation>
 	</SpaceUnit>
 	
 	<SpaceUnit Name="Maldrood_Arquitens">

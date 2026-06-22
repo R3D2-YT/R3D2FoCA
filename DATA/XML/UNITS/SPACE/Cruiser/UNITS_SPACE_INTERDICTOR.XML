@@ -193,5 +193,11 @@
 
 	</SpaceUnit>
 
+	<SpaceUnit Name="Interdictor_Pentastar">
+		<Variant_Of_Existing_Type>Interdictor_Cruiser</Variant_Of_Existing_Type>
+		<Affiliation>Pentastar</Affiliation>
+
+	</SpaceUnit>
+
 
 </REP_PDF_Dreadnought>

@@ -212,6 +212,11 @@
 		<Population_Value>3</Population_Value>
 	</SpaceUnit>
 
+	<SpaceUnit Name="Pentastar_Lancer">
+		<Variant_Of_Existing_Type>E_Lancer</Variant_Of_Existing_Type>
+		<Affiliation>Pentastar</Affiliation>
+	</SpaceUnit>
+
 
 
 </REP_PDF_Dreadnought>

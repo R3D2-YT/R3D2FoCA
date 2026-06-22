@@ -195,6 +195,27 @@
 		
 	</SpaceUnit>
 
+	<SpaceUnit Name="Venator_Destroyer_Pentastar">
+		<Variant_Of_Existing_Type>Venator_Destroyer_No_Fighters</Variant_Of_Existing_Type>
+		<Icon_Name>i_button_jedi_cruiser_E.tga</Icon_Name>
+		<Affiliation>Pentastar</Affiliation>
+		<Space_Model_Name>Venator_Empire.alo</Space_Model_Name>
+		
+		<Tech_Level>99</Tech_Level>
+		<Required_Special_Structures> Tier_II_Shipyard </Required_Special_Structures>
+		<!-- Fighter complement -->
+		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 3</Starting_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
+
+		<Reserve_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 9</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 5</Reserve_Spawned_Units_Tech_0> 
+		<SpaceBehavior>SPAWN_SQUADRON, ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, TARGETING, REVEAL, HIDE_WHEN_FOGGED, UNIT_AI, ASTEROID_FIELD_DAMAGE, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA </SpaceBehavior>
+		<Population_Value>6</Population_Value>
+		<Tactical_Build_Prerequisites>  </Tactical_Build_Prerequisites>
+		<Tactical_Bribe_Cost>2800</Tactical_Bribe_Cost>
+		
+	</SpaceUnit>
+
 	<SpaceUnit Name="Jedi_Cruiser">
 		<Variant_Of_Existing_Type>Venator_Destroyer_No_Fighters</Variant_Of_Existing_Type>
 		<Affiliation>Pirates</Affiliation>

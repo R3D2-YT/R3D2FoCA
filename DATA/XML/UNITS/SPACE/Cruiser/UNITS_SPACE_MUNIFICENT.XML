@@ -188,7 +188,7 @@
 	<SpaceUnit Name="Pentastar_Munificent">
 		<Variant_Of_Existing_Type>Munificent</Variant_Of_Existing_Type>
 		<Affiliation>Pentastar</Affiliation>
-		<Tech_Level>99</Tech_Level>
+		<Tech_Level>0</Tech_Level>
 		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 2</Starting_Spawned_Units_Tech_0>
 
 		<Reserve_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 6</Reserve_Spawned_Units_Tech_0>
