@@ -55,6 +55,7 @@
 
 	<File>Planets.xml</File>
 	<File>PLANETS_EQR.xml</File>
+	<File>PLANETS_REWORK.xml</File>
 
 	<File>Projectiles.xml</File>
 
@@ -153,6 +154,9 @@
 	<File>UNITS\SPACE\CAPITAL\UNITS_SPACE_STAR_DESTROYER.XML</File>
 	<File>UNITS\SPACE\CAPITAL\UNITS_SPACE_STAR_DESTROYER_II.XML</File>
 	<File>UNITS\SPACE\CAPITAL\UNITS_SPACE_TECTOR_STAR_DESTROYER.XML</File>
+
+	<!-- Battlecruisers -->
+	<File>UNITS\SPACE\BATTLECRUISER\Units_Space_Tyrant.Xml</File>
 
 	<!-- Heroes -->
 

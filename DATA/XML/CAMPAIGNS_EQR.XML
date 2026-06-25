@@ -631,7 +631,7 @@
 
         <!-- Balmorra Space Forces -->
         <Starting_Forces> Pentastar, EQR_Balmorra, Pentastar_Star_Base_3 </Starting_Forces>
-        <Starting_Forces> Pentastar, EQR_Balmorra, Acclamator_Assault_Ship_Pentastar </Starting_Forces>
+        <Starting_Forces> Pentastar, EQR_Balmorra, Tyrant_Pentastar </Starting_Forces>
         
         <!-- Balmorra Land Forces -->
         <Starting_Forces> Pentastar, EQR_Balmorra, Warlord_Barracks </Starting_Forces>

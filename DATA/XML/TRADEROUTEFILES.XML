@@ -3,4 +3,5 @@
 <Trade_Route_Files>
 	<File>TradeRoutes.xml</File>
 	<File>TradeRoutes_EQR.xml</File>
+	<File>TradeRoutes_Rework.xml</File>
 </Trade_Route_Files>
