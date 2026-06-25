@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+
 <Planets>
 
 	<Planet Name="Galaxy_Core_Art_Model">
@@ -16,7 +17,7 @@
 		<Camera_Aligned>No</Camera_Aligned>
 		<Terrain />
 		<Planet_Credit_Value>0</Planet_Credit_Value>
-		<Galactic_Position>0.0, 0.0, 0.0</Galactic_Position>
+		<Galactic_Position>0, 0, 0</Galactic_Position>
 		<Special_Structures>0</Special_Structures>
 		<In_Background>yes</In_Background>
 		<Max_Ground_Base>0</Max_Ground_Base>
@@ -113,7 +114,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Temperate</Terrain>
 		<Planet_Credit_Value>70</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>6</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>-90.0, 40.0, 10.0</Galactic_Position>
+		<Galactic_Position>-90, 40, 10</Galactic_Position>
 		<Special_Structures_Land>3</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
@@ -197,7 +198,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Volcanic</Terrain>
 		<Planet_Credit_Value>90</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>60.0, 190.0, 10.0</Galactic_Position>
+		<Galactic_Position>60, 190, 10</Galactic_Position>
 		<Special_Structures_Land>3</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
@@ -284,7 +285,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Temperate</Terrain>
 		<Planet_Credit_Value>20</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>60.0, 5.0, 10.0</Galactic_Position>
+		<Galactic_Position>60, 5, 10</Galactic_Position>
 		<Special_Structures_Land>0</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -351,7 +352,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Arctic</Terrain>
 		<Planet_Credit_Value>115</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>10</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>-110.0, 280.0, 10.0</Galactic_Position>
+		<Galactic_Position>-110, 280, 10</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
 		<Special_Structures_Space>1</Special_Structures_Space>
 		<Max_Space_Base>2</Max_Space_Base>
@@ -436,7 +437,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Temperate</Terrain>
 		<Planet_Credit_Value>60</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>10.0, 120.0, 10.0</Galactic_Position>
+		<Galactic_Position>10, 120, 10</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
 		<Special_Structures_Space>1</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
@@ -542,7 +543,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Swamp</Terrain>
 		<Planet_Credit_Value>50</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>3</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>-210.0, -100.0, 10.0</Galactic_Position>
+		<Galactic_Position>-210, -100, 10</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
 		<Special_Structures_Space>1</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
@@ -633,7 +634,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
 		<Planet_Credit_Value>130</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>8</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>-160.0, -150.0, 10.0</Galactic_Position>
+		<Galactic_Position>-160, -150, 10</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -727,7 +728,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
 		<Planet_Credit_Value>130</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>8</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>-160.0, -150.0, 10.0</Galactic_Position>
+		<Galactic_Position>-160, -150, 10</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -819,7 +820,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
 		<Planet_Credit_Value>90</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>8</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>-150.0, -50.0, 10.0</Galactic_Position>
+		<Galactic_Position>-150, -50, 10</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -915,7 +916,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
 		<Planet_Credit_Value>135</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>12</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>250.0, 230.0, 10.0</Galactic_Position>
+		<Galactic_Position>250, 230, 10</Galactic_Position>
 		<Special_Structures_Land>7</Special_Structures_Land>
 		<Special_Structures_Space>1</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
@@ -1003,7 +1004,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Forest</Terrain>
 		<Planet_Credit_Value>50</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>4</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>70.0, -180.0, 10.0</Galactic_Position>
+		<Galactic_Position>70, -180, 10</Galactic_Position>
 		<Special_Structures_Land>6</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
@@ -1126,7 +1127,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Temperate</Terrain>
 		<Planet_Credit_Value>30</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>-10.0, -30.0, 10.0</Galactic_Position>
+		<Galactic_Position>-10, -30, 10</Galactic_Position>
 		<Special_Structures_Land>8</Special_Structures_Land>
 		<Special_Structures_Space>3</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -1218,7 +1219,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Temperate</Terrain>
 		<Planet_Credit_Value>40</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>-30.0, 190.0, 10.0</Galactic_Position>
+		<Galactic_Position>-30, 190, 10</Galactic_Position>
 		<Special_Structures_Land>7</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
@@ -1324,7 +1325,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
 		<Planet_Credit_Value>105</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>9</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>30.0, -110.0, 10.0</Galactic_Position>
+		<Galactic_Position>30, -110, 10</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
 		<Special_Structures_Space>3</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -1420,7 +1421,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
 		<Planet_Credit_Value>35</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>9</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>-70.0, -20.0, 10.0</Galactic_Position>
+		<Galactic_Position>-70, -20, 10</Galactic_Position>
 		<Special_Structures_Land>6</Special_Structures_Land>
 		<Special_Structures_Space>1</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -1518,7 +1519,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
 		<Planet_Credit_Value>160</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>15</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>-5.0, 35.0, 10.0</Galactic_Position>
+		<Galactic_Position>-5, 35, 10</Galactic_Position>
 		<Special_Structures_Land>8</Special_Structures_Land>
 		<Special_Structures_Space>3</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -1598,7 +1599,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Forest</Terrain>
 		<Planet_Credit_Value>85</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>80.0, 300.0, 10.0</Galactic_Position>
+		<Galactic_Position>80, 300, 10</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -1692,7 +1693,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Swamp</Terrain>
 		<Planet_Credit_Value>30</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>-120.0, -220.0, 10.0</Galactic_Position>
+		<Galactic_Position>-120, -220, 10</Galactic_Position>
 		<Special_Structures_Land>2</Special_Structures_Land>
 		<Special_Structures_Space>1</Special_Structures_Space>
 		<Max_Space_Base>2</Max_Space_Base>
@@ -1761,7 +1762,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Temperate</Terrain>
 		<Planet_Credit_Value>35</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>130.0, 230.0, 10.0</Galactic_Position>
+		<Galactic_Position>130, 230, 10</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
 		<Special_Structures_Space>1</Special_Structures_Space>
 		<Max_Space_Base>2</Max_Space_Base>
@@ -1847,7 +1848,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
 		<Planet_Credit_Value>35</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>-240.0, -20.0, 10.0</Galactic_Position>
+		<Galactic_Position>-240, -20, 10</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -1925,7 +1926,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Urban</Terrain>
 		<Planet_Credit_Value>85</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>-50.0, -150.0, 10.0</Galactic_Position>
+		<Galactic_Position>-50, -150, 10</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
@@ -2018,7 +2019,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Swamp</Terrain>
 		<Planet_Credit_Value>85</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>110.0, 50.0, 10.0</Galactic_Position>
+		<Galactic_Position>110, 50, 10</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -2108,7 +2109,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Urban</Terrain>
 		<Planet_Credit_Value>90</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>-150.0, 70.0, 10.0</Galactic_Position>
+		<Galactic_Position>-150, 70, 10</Galactic_Position>
 		<Special_Structures_Land>3</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -2206,7 +2207,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Temperate</Terrain>
 		<Planet_Credit_Value>85</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>60.0, 75.0, 10.0</Galactic_Position>
+		<Galactic_Position>60, 75, 10</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
 		<Special_Structures_Space>3</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -2298,7 +2299,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Desert</Terrain>
 		<Planet_Credit_Value>90</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>8</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>30.0, -280.0, 10.0</Galactic_Position>
+		<Galactic_Position>30, -280, 10</Galactic_Position>
 		<Special_Structures_Land>8</Special_Structures_Land>
 		<Special_Structures_Space>1</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
@@ -2393,7 +2394,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Desert</Terrain>
 		<Planet_Credit_Value>85</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>210.0, -130.0, 10.0</Galactic_Position>
+		<Galactic_Position>210, -130, 10</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -2489,7 +2490,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Desert</Terrain>
 		<Planet_Credit_Value>85</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>210.0, -130.0, 10.0</Galactic_Position>
+		<Galactic_Position>210, -130, 10</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -2580,7 +2581,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Arctic</Terrain>
 		<Planet_Credit_Value>60</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>-220.0, -210.0, 10.0</Galactic_Position>
+		<Galactic_Position>-220, -210, 10</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
 		<Special_Structures_Space>1</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
@@ -2653,7 +2654,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Desert</Terrain>
 		<Planet_Credit_Value>85</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>160.0, -320.0, 10.0</Galactic_Position>
+		<Galactic_Position>160, -320, 10</Galactic_Position>
 		<Special_Structures_Land>7</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -2734,7 +2735,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Arctic</Terrain>
 		<Planet_Credit_Value>35</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>-80.0, 110.0, 10.0</Galactic_Position>
+		<Galactic_Position>-80, 110, 10</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
 		<Special_Structures_Space>0</Special_Structures_Space>
 		<Max_Space_Base>1</Max_Space_Base>
@@ -2813,7 +2814,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Swamp</Terrain>
 		<Planet_Credit_Value>105</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>9</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>-120.0, 200.0, 10.0</Galactic_Position>
+		<Galactic_Position>-120, 200, 10</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
@@ -2932,7 +2933,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Temperate</Terrain>
 		<Planet_Credit_Value>75</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>6</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>280.0, -150.0, 10.0</Galactic_Position>
+		<Galactic_Position>280, -150, 10</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
 		<Special_Structures_Space>1</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
@@ -3032,7 +3033,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Temperate</Terrain>
 		<Planet_Credit_Value>75</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>6</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>280.0, -150.0, 10.0</Galactic_Position>
+		<Galactic_Position>280, -150, 10</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
 		<Special_Structures_Space>1</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
@@ -3120,7 +3121,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Forest</Terrain>
 		<Planet_Credit_Value>30</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>140.0, -130.0, 10.0</Galactic_Position>
+		<Galactic_Position>140, -130, 10</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
@@ -3204,7 +3205,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Desert</Terrain>
 		<Planet_Credit_Value>160</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>20</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>140.0, -10.0, 10.0</Galactic_Position>
+		<Galactic_Position>140, -10, 10</Galactic_Position>
 		<Special_Structures_Land>2</Special_Structures_Land>
 		<Special_Structures_Space>1</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
@@ -3288,7 +3289,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Desert</Terrain>
 		<Planet_Credit_Value>30</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>170.0, 50.0, 10.0</Galactic_Position>
+		<Galactic_Position>170, 50, 10</Galactic_Position>
 		<Special_Structures_Land>3</Special_Structures_Land>
 		<Special_Structures_Space>0</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
@@ -3371,7 +3372,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
 		<Planet_Credit_Value>75</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>6</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>90.0, -70.0, 10.0</Galactic_Position>
+		<Galactic_Position>90, -70, 10</Galactic_Position>
 		<Special_Structures_Land>3</Special_Structures_Land>
 		<Special_Structures_Space>3</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -3469,7 +3470,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Temperate</Terrain>
 		<Planet_Credit_Value>45</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>3</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>5.0, 270.0, 10.0</Galactic_Position>
+		<Galactic_Position>5, 270, 10</Galactic_Position>
 		<Special_Structures_Land>2</Special_Structures_Land>
 		<Special_Structures_Space>1</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
@@ -3539,7 +3540,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Swamp</Terrain>
 		<Planet_Credit_Value>85</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>60.0, -360.0, 10.0</Galactic_Position>
+		<Galactic_Position>60, -360, 10</Galactic_Position>
 		<Special_Structures_Land>7</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -3638,7 +3639,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Swamp</Terrain>
 		<Planet_Credit_Value>85</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>60.0, -360.0, 10.0</Galactic_Position>
+		<Galactic_Position>60, -360, 10</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -3731,7 +3732,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Swamp</Terrain>
 		<Planet_Credit_Value>85</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>60.0, -360.0, 10.0</Galactic_Position>
+		<Galactic_Position>60, -360, 10</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -3824,7 +3825,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Temperate</Terrain>
 		<Planet_Credit_Value>75</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>6</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>300.0, -75.0, 10.0</Galactic_Position>
+		<Galactic_Position>300, -75, 10</Galactic_Position>
 		<Special_Structures_Land>3</Special_Structures_Land>
 		<Special_Structures_Space>3</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -3925,7 +3926,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Volcanic</Terrain>
 		<Planet_Credit_Value>85</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>-140.0, -300.0, 10.0</Galactic_Position>
+		<Galactic_Position>-140, -300, 10</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -4019,7 +4020,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Temperate</Terrain>
 		<Planet_Credit_Value>150</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>170.0, 300.0, 10.0</Galactic_Position>
+		<Galactic_Position>170, 300, 10</Galactic_Position>
 		<Special_Structures_Land>6</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -4104,7 +4105,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Forest</Terrain>
 		<Planet_Credit_Value>85</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>100.0, 125.0, 10.0</Galactic_Position>
+		<Galactic_Position>100, 125, 10</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -4179,7 +4180,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Temperate</Terrain>
 		<Planet_Credit_Value>90</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>8</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>-50.0, -230.0, 10.0</Galactic_Position>
+		<Galactic_Position>-50, -230, 10</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -4275,7 +4276,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Temperate</Terrain>
 		<Planet_Credit_Value>125</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>12</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>140.0, -200.0, 10.0</Galactic_Position>
+		<Galactic_Position>140, -200, 10</Galactic_Position>
 		<Special_Structures_Land>8</Special_Structures_Land>
 		<Special_Structures_Space>3</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -4379,7 +4380,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Temperate</Terrain>
 		<Planet_Credit_Value>125</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>12</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>140.0, -200.0, 10.0</Galactic_Position>
+		<Galactic_Position>140, -200, 10</Galactic_Position>
 		<Special_Structures_Land>8</Special_Structures_Land>
 		<Special_Structures_Space>3</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -4457,7 +4458,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Temperate</Terrain>
 		<Planet_Credit_Value>1250</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>12</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>140.0, -200.0, 10.0</Galactic_Position>
+		<Galactic_Position>140, -200, 10</Galactic_Position>
 		<Special_Structures_Land>8</Special_Structures_Land>
 		<Special_Structures_Space>3</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -4516,7 +4517,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Temperate</Terrain>
 		<Planet_Credit_Value>125</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>12</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>140.0, -200.0, 10.0</Galactic_Position>
+		<Galactic_Position>140, -200, 10</Galactic_Position>
 		<Special_Structures_Land>8</Special_Structures_Land>
 		<Special_Structures_Space>3</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -4611,7 +4612,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Temperate</Terrain>
 		<Planet_Credit_Value>110</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>16</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>-260.0, 100.0, 10.0</Galactic_Position>
+		<Galactic_Position>-260, 100, 10</Galactic_Position>
 		<Special_Structures_Land>3</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -4700,7 +4701,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Desert</Terrain>
 		<Planet_Credit_Value>60</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>100.0, -300.0, 10.0</Galactic_Position>
+		<Galactic_Position>100, -300, 10</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
 		<Special_Structures_Space>1</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
@@ -4790,7 +4791,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Desert</Terrain>
 		<Planet_Credit_Value>60</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>100.0, -300.0, 10.0</Galactic_Position>
+		<Galactic_Position>100, -300, 10</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
 		<Special_Structures_Space>1</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -4880,7 +4881,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Desert</Terrain>
 		<Planet_Credit_Value>85</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>250.0, 0.0, 10.0</Galactic_Position>
+		<Galactic_Position>250, 0, 10</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -4977,7 +4978,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Temperate</Terrain>
 		<Planet_Credit_Value>35</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>16</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>200.0, -260.0, 10.0</Galactic_Position>
+		<Galactic_Position>200, -260, 10</Galactic_Position>
 		<Special_Structures_Land>6</Special_Structures_Land>
 		<Special_Structures_Space>1</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -5049,7 +5050,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Volcanic</Terrain>
 		<Planet_Credit_Value>60</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>-90.0, -80.0, 10.0</Galactic_Position>
+		<Galactic_Position>-90, -80, 10</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
 		<Special_Structures_Space>3</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -5143,7 +5144,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Temperate</Terrain>
 		<Planet_Credit_Value>45</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>3</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>-190.0, 30.0, 10.0</Galactic_Position>
+		<Galactic_Position>-190, 30, 10</Galactic_Position>
 		<Special_Structures_Land>6</Special_Structures_Land>
 		<Special_Structures_Space>1</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -5242,7 +5243,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
 		<Planet_Credit_Value>35</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>-5.0, -190.0, 10.0</Galactic_Position>
+		<Galactic_Position>-5, -190, 10</Galactic_Position>
 		<Special_Structures_Land>6</Special_Structures_Land>
 		<Special_Structures_Space>1</Special_Structures_Space>
 		<Max_Space_Base>2</Max_Space_Base>
@@ -5334,7 +5335,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Temperate</Terrain>
 		<Planet_Credit_Value>85</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>190.0, -60.0, 10.0</Galactic_Position>
+		<Galactic_Position>190, -60, 10</Galactic_Position>
 		<Special_Structures_Land>0</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -5404,7 +5405,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
 		<Planet_Credit_Value>160</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>14</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>-190.0, 150.0, 10.0</Galactic_Position>
+		<Galactic_Position>-190, 150, 10</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
@@ -5490,7 +5491,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Desert</Terrain>
 		<Planet_Credit_Value>85</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>-80.0, -370.0, 10.0</Galactic_Position>
+		<Galactic_Position>-80, -370, 10</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -5583,7 +5584,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Desert</Terrain>
 		<Planet_Credit_Value>75</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>60</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>-50.0, -300.0, 10.0</Galactic_Position>
+		<Galactic_Position>-50, -300, 10</Galactic_Position>
 		<Special_Structures_Land>0</Special_Structures_Land>
 		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -5655,7 +5656,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Temperate</Terrain>
 		<Planet_Credit_Value>35</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>16</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>160.0, 125.0, 10.0</Galactic_Position>
+		<Galactic_Position>160, 125, 10</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
 		<Special_Structures_Space>1</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
@@ -5744,7 +5745,7 @@ A tactical battle will be launched if the corruption choice has valid entries fo
 		<Terrain>Forest</Terrain>
 		<Planet_Credit_Value>40</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-		<Galactic_Position>240.0, 100.0, 10.0</Galactic_Position>
+		<Galactic_Position>240, 100, 10</Galactic_Position>
 		<Special_Structures_Land>6</Special_Structures_Land>
 		<Special_Structures_Space>1</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>

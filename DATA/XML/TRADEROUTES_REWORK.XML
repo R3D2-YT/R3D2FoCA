@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<TradeRoutes>
+    <TradeRoute Name="Bastion_Jaemus">
+            <Point_A>Rework_Bastion</Point_A>
+            <Point_B>Rework_Jaemus</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+</TradeRoutes>
