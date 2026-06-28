@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<TradeRoutes>
+	<TradeRoute Name="Rework_Jaemus_Rework_Muunilinst">
+		<Point_A>Rework_Jaemus</Point_A>
+		<Point_B>Rework_Muunilinst</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Entralla_Rework_YagaMinor">
+		<Point_A>Rework_Entralla</Point_A>
+		<Point_B>Rework_YagaMinor</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_YagaMinor_Rework_Prefsbelt">
+		<Point_A>Rework_YagaMinor</Point_A>
+		<Point_B>Rework_Prefsbelt</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Muunilinst_Rework_Mygeeto">
+		<Point_A>Rework_Muunilinst</Point_A>
+		<Point_B>Rework_Mygeeto</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Mygeeto_Rework_Prefsbelt">
+		<Point_A>Rework_Mygeeto</Point_A>
+		<Point_B>Rework_Prefsbelt</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Prefsbelt_Rework_Entralla">
+		<Point_A>Rework_Prefsbelt</Point_A>
+		<Point_B>Rework_Entralla</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Borosk_Rework_Prefsbelt">
+		<Point_A>Rework_Borosk</Point_A>
+		<Point_B>Rework_Prefsbelt</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Borosk_Rework_YagaMinor">
+		<Point_A>Rework_Borosk</Point_A>
+		<Point_B>Rework_YagaMinor</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Wistril_Rework_Borosk">
+		<Point_A>Rework_Wistril</Point_A>
+		<Point_B>Rework_Borosk</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+</TradeRoutes>

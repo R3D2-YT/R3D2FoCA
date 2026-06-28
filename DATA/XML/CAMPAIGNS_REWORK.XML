@@ -1,4 +1,6 @@
-<?xml version="1.0" ?>
+<?xml version="1.0"?>
+
+
 
 <Campaigns>
   <!-- ******************************************************************** -->
@@ -16,109 +18,16 @@
         <Camera_Shift_Y> 0.0 </Camera_Shift_Y>
         <Camera_Distance> 1200.0 </Camera_Distance>
 
-        <Locations> 
-                EQR_Galaxy_Core_Art_Model, 
-                Rework_Abregado_Rae,
-                Rework_AetenII,
-                Rework_Alderaan,
-                Rework_AlzocIII,
-                Rework_Anaxes,
-                Rework_Atzerri,
-                Rework_Bespin,
-                Rework_Bespin_Story,
-                Rework_Bestine,
-                Rework_Bonadan,
-                Rework_Bothawui,
-                Rework_Byss,
-                Rework_Carida,
-                Rework_Corellia,
-                Rework_Corulag,
-                Rework_Coruscant,
-                Rework_Dathomir,
-                Rework_Dagobah,
-                Rework_Dantooine,
-                Rework_Endor,
-                Rework_Eriadu,
-                Rework_Felucia,
-                Rework_Fondor,
-                Rework_Fresia,
-                Rework_Geonosis,
-                Rework_Honoghr,
-                Rework_Honoghr_Story,
-                Rework_Hoth,
-                Rework_Hypori,
-                Rework_Ilum,
-                Rework_Jabiim,
-                Rework_Kamino,
-                Rework_Kamino_Prologue,
-                Rework_Kashyyyk,
-                Rework_Kessel,
-                Rework_Korriban,
-                Rework_Kuat,
-                Rework_Manaan,
-                Rework_Mandalore,
-                Rework_Mandalore_Prologue,
-                Rework_Mandalore_Story,
-                Rework_MonCalimari,
-                Rework_Mustafar,
-                Rework_Muunilinst,
-                Rework_Myrkr,
-                Rework_Naboo,
-                Rework_NalHutta,
-                Rework_NalHutta_Prologue,
-                Rework_NalHutta_Tutorial_4,
-                Rework_NalHutta_Story,
-                Rework_Polus,
-                Rework_Ryloth,
-                Rework_Ryloth_Prologue,
-                Rework_Saleucami,
-                Rework_Shola,
-                Rework_Sullust,
-                Rework_Taris,
-                Rework_Tatooine,
-                Rework_The_Maw,
-                Rework_Thyferra,
-                Rework_Utapau,
-                Rework_VergessoAsteroids,
-                Rework_Wayland,
-                Rework_Yavin,
-                Rework_Entralla,
-                Rework_Bastion,
-                Rework_Jaemus,
-                Rework_YagaMinor,
-                Rework_OrdTrasi,
-                Rework_Prefsbelt,
-                Rework_Borosk,
-                Rework_Wistril,
-                Rework_Orinda,
-                Rework_Mygeeto,
-                Rework_Morishim,
-                Rework_Lonnaw,
-                Rework_Ord_Tessebok,
-                Rework_Ord_Mantell,
-                Rework_Nentan,
-                Rework_Dorin,
-                Rework_Bilbringi,
-                Rework_Neshtab,
-                Rework_Carratos,
-                Rework_OrdMirit,
-                Rework_Ragoon,
-                Rework_Metellos,
-                Rework_Alsakan,
-                Rework_Foerost,
-                Rework_XaFel,
-        </Locations>
+        <Locations>EQR_Galaxy_Core_Art_Model, Rework_Abregado_Rae, Rework_AetenII, Rework_Alderaan, Rework_Alsakan, Rework_AlzocIII, Rework_Anaxes, Rework_Atzerri, Rework_Bastion, Rework_Bespin, Rework_Bespin_Story, Rework_Bestine, Rework_Bilbringi, Rework_Bonadan, Rework_Borosk, Rework_Bothawui, Rework_Byss, Rework_Carida, Rework_Carratos, Rework_Corellia, Rework_Corulag, Rework_Coruscant, Rework_Dagobah, Rework_Dantooine, Rework_Dathomir, Rework_Dorin, Rework_Endor, Rework_Entralla, Rework_Eriadu, Rework_Felucia, Rework_Foerost, Rework_Fondor, Rework_Fresia, Rework_Geonosis, Rework_Honoghr, Rework_Honoghr_Story, Rework_Hoth, Rework_Hypori, Rework_Ilum, Rework_Jabiim, Rework_Jaemus, Rework_Kamino, Rework_Kamino_Prologue, Rework_Kashyyyk, Rework_Kessel, Rework_Korriban, Rework_Kuat, Rework_Lonnaw, Rework_Manaan, Rework_Mandalore, Rework_Mandalore_Prologue, Rework_Mandalore_Story, Rework_Metellos, Rework_MonCalimari, Rework_Morishim, Rework_Mustafar, Rework_Muunilinst, Rework_Mygeeto, Rework_Myrkr, Rework_Naboo, Rework_NalHutta, Rework_NalHutta_Prologue, Rework_NalHutta_Story, Rework_NalHutta_Tutorial_4, Rework_Nentan, Rework_Neshtab, Rework_OrdMirit, Rework_OrdTrasi, Rework_Ord_Mantell, Rework_Ord_Tessebok, Rework_Orinda, Rework_Polus, Rework_Prefsbelt, Rework_Ragoon, Rework_Ryloth, Rework_Ryloth_Prologue, Rework_Saleucami, Rework_Shola, Rework_Sullust, Rework_Taris, Rework_Tatooine, Rework_The_Maw, Rework_Thyferra, Rework_Utapau, Rework_VergessoAsteroids, Rework_Wayland, Rework_Wistril, Rework_XaFel, Rework_YagaMinor, Rework_Yavin</Locations>
 
-        <Trade_Routes> 
-               Bastion_Jaemus,
-               Bastion_Entralla,
-               Entralla_Jaemus,
-               Munnilinst_Jaemus,
-        </Trade_Routes>
+        <Trade_Routes>Bastion_Entralla, Bastion_Jaemus, Entralla_Jaemus, Munnilinst_Jaemus, Rework_Borosk_Rework_Prefsbelt, Rework_Borosk_Rework_YagaMinor, Rework_Entralla_Rework_YagaMinor, Rework_Jaemus_Rework_Muunilinst, Rework_Muunilinst_Rework_Mygeeto, Rework_Mygeeto_Rework_Prefsbelt, Rework_Prefsbelt_Rework_Entralla, Rework_Wistril_Rework_Borosk, Rework_YagaMinor_Rework_Prefsbelt</Trade_Routes>
 
-        <Home_Location> Rebel, EQR_Hoth </Home_Location>
+        
         <Home_Location> Empire, EQR_Coruscant </Home_Location>
+        <Home_Location> Rebel, EQR_Hoth </Home_Location>
         <Home_Location> Underworld, EQR_Hypori </Home_Location>
+        
+        
 
         <Starting_Active_Player> Pentastar </Starting_Active_Player>
 
