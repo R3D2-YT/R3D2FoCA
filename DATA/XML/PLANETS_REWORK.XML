@@ -6491,9 +6491,9 @@
 	<Planet Name="Rework_Orinda">
  		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_ORINDA</Text_ID>
-		<Galactic_Model_Name>W_planet_Anaxes_low.alo</Galactic_Model_Name>
+		<Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
-		<GUI_Model_Name>W_planet_Anaxes_low.alo</GUI_Model_Name>
+		<GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
         <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
@@ -6750,9 +6750,9 @@
 	<Planet Name="Rework_Lonnaw">
  		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_LONNAW</Text_ID>
-		<Galactic_Model_Name>W_planet_Anaxes_low.alo</Galactic_Model_Name>
+		<Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
-		<GUI_Model_Name>W_planet_Anaxes_low.alo</GUI_Model_Name>
+		<GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
         <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
@@ -6837,9 +6837,9 @@
 	<Planet Name="Rework_Ord_Tessebok">
  		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_ORD_TESSEBOK</Text_ID>
-		<Galactic_Model_Name>W_planet_Anaxes_low.alo</Galactic_Model_Name>
+		<Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
-		<GUI_Model_Name>W_planet_Anaxes_low.alo</GUI_Model_Name>
+		<GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
         <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
@@ -6924,9 +6924,9 @@
 	<Planet Name="Rework_Ord_Mantell">
  		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_ORD_MANTELL</Text_ID>
-		<Galactic_Model_Name>W_planet_Anaxes_low.alo</Galactic_Model_Name>
+		<Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
-		<GUI_Model_Name>W_planet_Anaxes_low.alo</GUI_Model_Name>
+		<GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
         <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>

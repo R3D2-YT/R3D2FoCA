@@ -62,9 +62,51 @@
         <Camera_Shift_Y> 0.0 </Camera_Shift_Y>
         <Camera_Distance> 1200.0 </Camera_Distance>
 
-        <Locations>EQR_Galaxy_Core_Art_Model, Rework_Abregado_Rae, Rework_AetenII, Rework_Alderaan, Rework_Alsakan, Rework_AlzocIII, Rework_Anaxes, Rework_Atzerri, Rework_Bastion, Rework_Bespin, Rework_Bespin_Story, Rework_Bestine, Rework_Bilbringi, Rework_Bonadan, Rework_Borosk, Rework_Bothawui, Rework_Byss, Rework_Carida, Rework_Carratos, Rework_Corellia, Rework_Corulag, Rework_Coruscant, Rework_Dagobah, Rework_Dantooine, Rework_Dathomir, Rework_Dorin, Rework_Endor, Rework_Entralla, Rework_Eriadu, Rework_Felucia, Rework_Foerost, Rework_Fondor, Rework_Fresia, Rework_Geonosis, Rework_Honoghr, Rework_Honoghr_Story, Rework_Hoth, Rework_Hypori, Rework_Ilum, Rework_Jabiim, Rework_Jaemus, Rework_Kamino, Rework_Kamino_Prologue, Rework_Kashyyyk, Rework_Kessel, Rework_Korriban, Rework_Kuat, Rework_Lonnaw, Rework_Manaan, Rework_Mandalore, Rework_Mandalore_Prologue, Rework_Mandalore_Story, Rework_Metellos, Rework_MonCalimari, Rework_Morishim, Rework_Mustafar, Rework_Muunilinst, Rework_Mygeeto, Rework_Myrkr, Rework_Naboo, Rework_NalHutta, Rework_NalHutta_Prologue, Rework_NalHutta_Story, Rework_NalHutta_Tutorial_4, Rework_Nentan, Rework_Neshtab, Rework_OrdMirit, Rework_OrdTrasi, Rework_Ord_Mantell, Rework_Ord_Tessebok, Rework_Orinda, Rework_Polus, Rework_Prefsbelt, Rework_Ragoon, Rework_Ryloth, Rework_Ryloth_Prologue, Rework_Saleucami, Rework_Shola, Rework_Sullust, Rework_Taris, Rework_Tatooine, Rework_The_Maw, Rework_Thyferra, Rework_Utapau, Rework_VergessoAsteroids, Rework_Wayland, Rework_Wistril, Rework_XaFel, Rework_YagaMinor, Rework_Yavin</Locations>
+        <Locations>EQR_Galaxy_Core_Art_Model, Rework_Abregado_Rae, Rework_AetenII, Rework_Alderaan, Rework_Alsakan, Rework_AlzocIII, Rework_Anaxes, Rework_Atzerri, Rework_Bastion, Rework_Bespin, Rework_Bestine, Rework_Bilbringi, Rework_Bonadan, Rework_Borosk, Rework_Bothawui, Rework_Byss, Rework_Carida, Rework_Carratos, Rework_Corellia, Rework_Corulag, Rework_Coruscant, Rework_Dagobah, Rework_Dantooine, Rework_Dathomir, Rework_Dorin, Rework_Endor, Rework_Entralla, Rework_Eriadu, Rework_Felucia, Rework_Foerost, Rework_Fondor, Rework_Fresia, Rework_Geonosis, Rework_Honoghr, Rework_Hoth, Rework_Hypori, Rework_Ilum, Rework_Jabiim, Rework_Jaemus, Rework_Kamino, Rework_Kashyyyk, Rework_Kessel, Rework_Korriban, Rework_Kuat, Rework_Lonnaw, Rework_Manaan, Rework_Mandalore, Rework_Mandalore_Prologue, Rework_Metellos, Rework_MonCalimari, Rework_Morishim, Rework_Mustafar, Rework_Muunilinst, Rework_Mygeeto, Rework_Myrkr, Rework_Naboo, Rework_NalHutta, Rework_Nentan, Rework_Neshtab, Rework_OrdMirit, Rework_OrdTrasi, Rework_Ord_Mantell, Rework_Ord_Tessebok, Rework_Orinda, Rework_Polus, Rework_Prefsbelt, Rework_Ragoon, Rework_Ryloth, Rework_Ryloth_Prologue, Rework_Saleucami, Rework_Shola, Rework_Sullust, Rework_Taris, Rework_Tatooine, Rework_The_Maw, Rework_Thyferra, Rework_Utapau, Rework_VergessoAsteroids, Rework_Wayland, Rework_Wistril, Rework_XaFel, Rework_YagaMinor, Rework_Yavin</Locations>
 
-        <Trade_Routes>Bastion_Entralla, Bastion_Jaemus, Entralla_Jaemus, Munnilinst_Jaemus, Rework_Alsakan_Rework_Anaxes, Rework_Bilbringi_Rework_Carratos, Rework_Borosk_Rework_Lonnaw, Rework_Borosk_Rework_Orinda, Rework_Borosk_Rework_Prefsbelt, Rework_Borosk_Rework_YagaMinor, Rework_Carratos_Rework_XaFel, Rework_Coruscant_Rework_Alsakan, Rework_Coruscant_Rework_Foerost, Rework_Coruscant_Rework_Metellos, Rework_Dorin_Rework_Bilbringi, Rework_Entralla_Rework_YagaMinor, Rework_Jaemus_Rework_Muunilinst, Rework_Jaemus_Rework_Mygeeto, Rework_Jaemus_Rework_OrdTrasi, Rework_Lonnaw_Rework_Nentan, Rework_Lonnaw_Rework_Orinda, Rework_Metellos_Rework_Fresia, Rework_Metellos_Rework_OrdMirit, Rework_Muunilinst_Rework_Entralla, Rework_Muunilinst_Rework_Mygeeto, Rework_Mygeeto_Rework_Morishim, Rework_Mygeeto_Rework_OrdTrasi, Rework_Mygeeto_Rework_Prefsbelt, Rework_Nentan_Rework_Dorin, Rework_Nentan_Rework_Ord_Mantell, Rework_OrdMirit_Rework_Carratos, Rework_OrdMirit_Rework_Ragoon, Rework_OrdMirit_Rework_XaFel, Rework_OrdTrasi_Rework_Morishim, Rework_Ord_Tessebok_Rework_Lonnaw, Rework_Ord_Tessebok_Rework_Nentan, Rework_Ord_Tessebok_Rework_Ord_Mantell, Rework_Ord_Tessebok_Rework_Orinda, Rework_Prefsbelt_Rework_Entralla, Rework_Prefsbelt_Rework_Morishim, Rework_Ragoon_Rework_Fresia, Rework_Ragoon_Rework_Metellos, Rework_Ragoon_Rework_XaFel, Rework_Wistril_Rework_Borosk, Rework_Wistril_Rework_Orinda, Rework_Wistril_Rework_Prefsbelt, Rework_YagaMinor_Rework_Prefsbelt</Trade_Routes>
+        <Trade_Routes>Bastion_Entralla, Bastion_Jaemus, Entralla_Jaemus, Munnilinst_Jaemus, Rework_Alsakan_Rework_Anaxes, Rework_Bilbringi_Rework_Carratos, Rework_Borosk_Rework_Lonnaw, Rework_Borosk_Rework_Orinda, Rework_Borosk_Rework_Prefsbelt, Rework_Borosk_Rework_YagaMinor, Rework_Carratos_Rework_XaFel, Rework_Coruscant_Rework_Alsakan, Rework_Coruscant_Rework_Foerost, Rework_Coruscant_Rework_Metellos, Rework_Dorin_Rework_Bilbringi, Rework_Entralla_Rework_YagaMinor, Rework_Jaemus_Rework_Muunilinst, Rework_Jaemus_Rework_Mygeeto, Rework_Jaemus_Rework_OrdTrasi, Rework_Lonnaw_Rework_Nentan, Rework_Lonnaw_Rework_Orinda, Rework_Metellos_Rework_Fresia, Rework_Metellos_Rework_OrdMirit, Rework_Muunilinst_Rework_Entralla, Rework_Muunilinst_Rework_Mygeeto, Rework_Mygeeto_Rework_Morishim, Rework_Mygeeto_Rework_OrdTrasi, Rework_Mygeeto_Rework_Prefsbelt, Rework_Nentan_Rework_Dorin, Rework_Nentan_Rework_Ord_Mantell, Rework_OrdMirit_Rework_Carratos, Rework_OrdMirit_Rework_Ragoon, Rework_OrdMirit_Rework_XaFel, Rework_OrdTrasi_Rework_Morishim, Rework_Ord_Tessebok_Rework_Lonnaw, Rework_Ord_Tessebok_Rework_Nentan, Rework_Ord_Tessebok_Rework_Ord_Mantell, Rework_Ord_Tessebok_Rework_Orinda, Rework_Prefsbelt_Rework_Entralla, Rework_Prefsbelt_Rework_Morishim, Rework_Ragoon_Rework_Fresia, Rework_Ragoon_Rework_Metellos, Rework_Ragoon_Rework_XaFel, Rework_Wistril_Rework_Borosk, Rework_Wistril_Rework_Orinda, Rework_Wistril_Rework_Prefsbelt, Rework_YagaMinor_Rework_Prefsbelt, Rework_Jaemus_Rework_Muunilinst,
+Rework_Entralla_Rework_YagaMinor,
+Rework_YagaMinor_Rework_Prefsbelt,
+Rework_Muunilinst_Rework_Mygeeto,
+Rework_Mygeeto_Rework_Prefsbelt,
+Rework_Prefsbelt_Rework_Entralla,
+Rework_Borosk_Rework_Prefsbelt,
+Rework_Borosk_Rework_YagaMinor,
+Rework_Wistril_Rework_Borosk,
+Rework_Muunilinst_Rework_Entralla,
+Rework_Jaemus_Rework_Mygeeto,
+Rework_Wistril_Rework_Orinda,
+Rework_Wistril_Rework_Prefsbelt,
+Rework_Borosk_Rework_Orinda,
+Rework_Lonnaw_Rework_Orinda,
+Rework_Borosk_Rework_Lonnaw,
+Rework_Ord_Tessebok_Rework_Lonnaw,
+Rework_Ord_Tessebok_Rework_Orinda,
+Rework_Ord_Tessebok_Rework_Nentan,
+Rework_Lonnaw_Rework_Nentan,
+Rework_Ord_Tessebok_Rework_Ord_Mantell,
+Rework_Nentan_Rework_Ord_Mantell,
+Rework_Mygeeto_Rework_OrdTrasi,
+Rework_Jaemus_Rework_OrdTrasi,
+Rework_Nentan_Rework_Dorin,
+Rework_Dorin_Rework_Bilbringi,
+Rework_Bilbringi_Rework_Carratos,
+Rework_OrdMirit_Rework_Carratos,
+Rework_Carratos_Rework_XaFel,
+Rework_OrdMirit_Rework_XaFel,
+Rework_OrdMirit_Rework_Ragoon,
+Rework_Ragoon_Rework_XaFel,
+Rework_Metellos_Rework_OrdMirit,
+Rework_Ragoon_Rework_Metellos,
+Rework_Coruscant_Rework_Metellos,
+Rework_Coruscant_Rework_Alsakan,
+Rework_Alsakan_Rework_Anaxes,
+Rework_Coruscant_Rework_Foerost,
+Rework_Mygeeto_Rework_Morishim,
+Rework_OrdTrasi_Rework_Morishim,
+Rework_Prefsbelt_Rework_Morishim,
+Rework_Ragoon_Rework_Fresia,
+Rework_Metellos_Rework_Fresia, </Trade_Routes>
 
         
         
