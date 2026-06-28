@@ -54,6 +54,8 @@
 
 
 
+
+
 <Campaigns>
   <!-- ******************************************************************** -->
   <!-- ***** SANDBOX CAMPAIGN "Equal Footing - All Planets Populated" ***** -->
@@ -101,9 +103,12 @@
         
         
         
+        
         <Home_Location> Empire, EQR_Coruscant </Home_Location>
         <Home_Location> Rebel, EQR_Hoth </Home_Location>
         <Home_Location> Underworld, EQR_Hypori </Home_Location>
+        
+        
         
         
         
