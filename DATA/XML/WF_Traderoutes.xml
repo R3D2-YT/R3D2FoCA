@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <TradeRoutes>
 	<TradeRoute Name="Rework_Jaemus_Rework_Muunilinst">
 		<Point_A>Rework_Jaemus</Point_A>
@@ -67,6 +84,278 @@
 	<TradeRoute Name="Rework_Wistril_Rework_Borosk">
 		<Point_A>Rework_Wistril</Point_A>
 		<Point_B>Rework_Borosk</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Muunilinst_Rework_Entralla">
+		<Point_A>Rework_Muunilinst</Point_A>
+		<Point_B>Rework_Entralla</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Jaemus_Rework_Mygeeto">
+		<Point_A>Rework_Jaemus</Point_A>
+		<Point_B>Rework_Mygeeto</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Wistril_Rework_Orinda">
+		<Point_A>Rework_Wistril</Point_A>
+		<Point_B>Rework_Orinda</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Wistril_Rework_Prefsbelt">
+		<Point_A>Rework_Wistril</Point_A>
+		<Point_B>Rework_Prefsbelt</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Borosk_Rework_Orinda">
+		<Point_A>Rework_Borosk</Point_A>
+		<Point_B>Rework_Orinda</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Lonnaw_Rework_Orinda">
+		<Point_A>Rework_Lonnaw</Point_A>
+		<Point_B>Rework_Orinda</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Borosk_Rework_Lonnaw">
+		<Point_A>Rework_Borosk</Point_A>
+		<Point_B>Rework_Lonnaw</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Ord_Tessebok_Rework_Lonnaw">
+		<Point_A>Rework_Ord_Tessebok</Point_A>
+		<Point_B>Rework_Lonnaw</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Ord_Tessebok_Rework_Orinda">
+		<Point_A>Rework_Ord_Tessebok</Point_A>
+		<Point_B>Rework_Orinda</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Ord_Tessebok_Rework_Nentan">
+		<Point_A>Rework_Ord_Tessebok</Point_A>
+		<Point_B>Rework_Nentan</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Lonnaw_Rework_Nentan">
+		<Point_A>Rework_Lonnaw</Point_A>
+		<Point_B>Rework_Nentan</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Ord_Tessebok_Rework_Ord_Mantell">
+		<Point_A>Rework_Ord_Tessebok</Point_A>
+		<Point_B>Rework_Ord_Mantell</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Nentan_Rework_Ord_Mantell">
+		<Point_A>Rework_Nentan</Point_A>
+		<Point_B>Rework_Ord_Mantell</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Mygeeto_Rework_OrdTrasi">
+		<Point_A>Rework_Mygeeto</Point_A>
+		<Point_B>Rework_OrdTrasi</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Jaemus_Rework_OrdTrasi">
+		<Point_A>Rework_Jaemus</Point_A>
+		<Point_B>Rework_OrdTrasi</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Nentan_Rework_Dorin">
+		<Point_A>Rework_Nentan</Point_A>
+		<Point_B>Rework_Dorin</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Dorin_Rework_Bilbringi">
+		<Point_A>Rework_Dorin</Point_A>
+		<Point_B>Rework_Bilbringi</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Bilbringi_Rework_Carratos">
+		<Point_A>Rework_Bilbringi</Point_A>
+		<Point_B>Rework_Carratos</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_OrdMirit_Rework_Carratos">
+		<Point_A>Rework_OrdMirit</Point_A>
+		<Point_B>Rework_Carratos</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Carratos_Rework_XaFel">
+		<Point_A>Rework_Carratos</Point_A>
+		<Point_B>Rework_XaFel</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_OrdMirit_Rework_XaFel">
+		<Point_A>Rework_OrdMirit</Point_A>
+		<Point_B>Rework_XaFel</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_OrdMirit_Rework_Ragoon">
+		<Point_A>Rework_OrdMirit</Point_A>
+		<Point_B>Rework_Ragoon</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Ragoon_Rework_XaFel">
+		<Point_A>Rework_Ragoon</Point_A>
+		<Point_B>Rework_XaFel</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Metellos_Rework_OrdMirit">
+		<Point_A>Rework_Metellos</Point_A>
+		<Point_B>Rework_OrdMirit</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Ragoon_Rework_Metellos">
+		<Point_A>Rework_Ragoon</Point_A>
+		<Point_B>Rework_Metellos</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Coruscant_Rework_Metellos">
+		<Point_A>Rework_Coruscant</Point_A>
+		<Point_B>Rework_Metellos</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Coruscant_Rework_Alsakan">
+		<Point_A>Rework_Coruscant</Point_A>
+		<Point_B>Rework_Alsakan</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Alsakan_Rework_Anaxes">
+		<Point_A>Rework_Alsakan</Point_A>
+		<Point_B>Rework_Anaxes</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Coruscant_Rework_Foerost">
+		<Point_A>Rework_Coruscant</Point_A>
+		<Point_B>Rework_Foerost</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Mygeeto_Rework_Morishim">
+		<Point_A>Rework_Mygeeto</Point_A>
+		<Point_B>Rework_Morishim</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_OrdTrasi_Rework_Morishim">
+		<Point_A>Rework_OrdTrasi</Point_A>
+		<Point_B>Rework_Morishim</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Prefsbelt_Rework_Morishim">
+		<Point_A>Rework_Prefsbelt</Point_A>
+		<Point_B>Rework_Morishim</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Ragoon_Rework_Fresia">
+		<Point_A>Rework_Ragoon</Point_A>
+		<Point_B>Rework_Fresia</Point_B>
+		<HS_Speed_Factor>5.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+		<Visible_Line_Name>DEFAULT</Visible_Line_Name>
+	</TradeRoute>
+	<TradeRoute Name="Rework_Metellos_Rework_Fresia">
+		<Point_A>Rework_Metellos</Point_A>
+		<Point_B>Rework_Fresia</Point_B>
 		<HS_Speed_Factor>5.0</HS_Speed_Factor>
 		<Political_Control_Gain>0</Political_Control_Gain>
 		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
