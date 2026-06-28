@@ -1,0 +1,223 @@
+<?xml version="1.0" ?>
+
+<Campaigns>
+  <!-- ******************************************************************** -->
+  <!-- ***** SANDBOX CAMPAIGN "Equal Footing - All Planets Populated" ***** -->
+  <!-- ******************************************************************** -->
+    <Campaign Name="Sandbox_Rework_Pentastar">
+
+        <Campaign_Set> Sandbox_Rework </Campaign_Set>
+        <Sort_Order>1</Sort_Order>
+
+        <Text_ID> TEXT_CAMPAIGN_REWORK </Text_ID>
+        <Description_Text> TEXT_CAMPAIGN_SINGLE_DESCRIPTION_58 </Description_Text>
+
+        <Camera_Shift_X> 40.0 </Camera_Shift_X>
+        <Camera_Shift_Y> 0.0 </Camera_Shift_Y>
+        <Camera_Distance> 1200.0 </Camera_Distance>
+
+        <Locations> 
+                EQR_Galaxy_Core_Art_Model, 
+                Rework_Abregado_Rae,
+                Rework_AetenII,
+                Rework_Alderaan,
+                Rework_AlzocIII,
+                Rework_Anaxes,
+                Rework_Atzerri,
+                Rework_Bespin,
+                Rework_Bespin_Story,
+                Rework_Bestine,
+                Rework_Bonadan,
+                Rework_Bothawui,
+                Rework_Byss,
+                Rework_Carida,
+                Rework_Corellia,
+                Rework_Corulag,
+                Rework_Coruscant,
+                Rework_Dathomir,
+                Rework_Dagobah,
+                Rework_Dantooine,
+                Rework_Endor,
+                Rework_Eriadu,
+                Rework_Felucia,
+                Rework_Fondor,
+                Rework_Fresia,
+                Rework_Geonosis,
+                Rework_Honoghr,
+                Rework_Honoghr_Story,
+                Rework_Hoth,
+                Rework_Hypori,
+                Rework_Ilum,
+                Rework_Jabiim,
+                Rework_Kamino,
+                Rework_Kamino_Prologue,
+                Rework_Kashyyyk,
+                Rework_Kessel,
+                Rework_Korriban,
+                Rework_Kuat,
+                Rework_Manaan,
+                Rework_Mandalore,
+                Rework_Mandalore_Prologue,
+                Rework_Mandalore_Story,
+                Rework_MonCalimari,
+                Rework_Mustafar,
+                Rework_Muunilinst,
+                Rework_Myrkr,
+                Rework_Naboo,
+                Rework_NalHutta,
+                Rework_NalHutta_Prologue,
+                Rework_NalHutta_Tutorial_4,
+                Rework_NalHutta_Story,
+                Rework_Polus,
+                Rework_Ryloth,
+                Rework_Ryloth_Prologue,
+                Rework_Saleucami,
+                Rework_Shola,
+                Rework_Sullust,
+                Rework_Taris,
+                Rework_Tatooine,
+                Rework_The_Maw,
+                Rework_Thyferra,
+                Rework_Utapau,
+                Rework_VergessoAsteroids,
+                Rework_Wayland,
+                Rework_Yavin,
+                Rework_Entralla,
+                Rework_Bastion,
+                Rework_Jaemus,
+                Rework_YagaMinor,
+                Rework_OrdTrasi,
+                Rework_Prefsbelt,
+                Rework_Borosk,
+                Rework_Wistril,
+                Rework_Orinda,
+                Rework_Mygeeto,
+                Rework_Morishim,
+                Rework_Lonnaw,
+                Rework_Ord_Tessebok,
+                Rework_Ord_Mantell,
+                Rework_Nentan,
+                Rework_Dorin,
+                Rework_Bilbringi,
+                Rework_Neshtab,
+                Rework_Carratos,
+                Rework_OrdMirit,
+                Rework_Ragoon,
+                Rework_Metellos,
+                Rework_Alsakan,
+                Rework_Foerost,
+                Rework_XaFel,
+        </Locations>
+
+        <Trade_Routes> 
+               Bastion_Jaemus,
+               Bastion_Entralla,
+               Entralla_Jaemus,
+               Munnilinst_Jaemus,
+        </Trade_Routes>
+
+        <Home_Location> Rebel, EQR_Hoth </Home_Location>
+        <Home_Location> Empire, EQR_Coruscant </Home_Location>
+        <Home_Location> Underworld, EQR_Hypori </Home_Location>
+
+        <Starting_Active_Player> Pentastar </Starting_Active_Player>
+
+        <Rebel_Story_Name>Story_Plots_Sandbox_Rebel_EQR_AI.xml</Rebel_Story_Name>
+        <Empire_Story_Name>Story_Plots_Sandbox_Empire_EQR_AI.xml</Empire_Story_Name>
+        <Underworld_Story_Name>.xml</Underworld_Story_Name>
+        
+        <AI_Player_Control> Empire, BasicEmpire </AI_Player_Control>
+        <AI_Player_Control> Rebel, BasicRebel </AI_Player_Control>
+        <AI_Player_Control> Pirates, None </AI_Player_Control>
+        <AI_Player_Control> Hutts, None </AI_Player_Control>
+
+        <Markup_Filename>Empire, DefaultGalacticHints </Markup_Filename>
+        <Markup_Filename>Pirates, DefaultGalacticHints </Markup_Filename>
+        <Markup_Filename>Rebel, DefaultGalacticHints </Markup_Filename>
+        <Markup_Filename>Underworld, DefaultGalacticHints </Markup_Filename>
+        <Markup_Filename>Hutts, DefaultGalacticHints </Markup_Filename>
+
+        <Supports_Custom_Settings>False</Supports_Custom_Settings>
+        <Show_Completed_Tab>True</Show_Completed_Tab>
+
+        <!-- Win Conditions -->
+
+        <Human_Victory_Conditions>
+                Galactic_All_Planets_Controlled
+        </Human_Victory_Conditions>
+
+        <AI_Victory_Conditions>
+                Galactic_All_Planets_Controlled
+        </AI_Victory_Conditions>
+
+        <!-- Special Case Planets for Cantinas and Hutt Palaces -->
+        
+        <Special_Case_Production> Empire, EQR_Abregado_Rae, Ground_Cantina_E</Special_Case_Production>
+        <Special_Case_Production> Rebel, EQR_Abregado_Rae, Ground_Cantina_R</Special_Case_Production>
+        
+        <Special_Case_Production> Empire, EQR_Atzerri, Ground_Cantina_E</Special_Case_Production>
+        <Special_Case_Production> Rebel, EQR_Atzerri, Ground_Cantina_R</Special_Case_Production>
+        
+        <Special_Case_Production> Empire, EQR_Atzerri, Ground_Hutt_Palace_E</Special_Case_Production>
+        <Special_Case_Production> Rebel, EQR_Atzerri, Ground_Hutt_Palace_R</Special_Case_Production>
+        
+        <Special_Case_Production> Empire, EQR_Corellia, Ground_Cantina_E</Special_Case_Production>
+        <Special_Case_Production> Rebel, EQR_Corellia, Ground_Cantina_R</Special_Case_Production>
+        
+        <Special_Case_Production> Empire, EQR_NalHutta, Ground_Cantina_E</Special_Case_Production>
+        <Special_Case_Production> Rebel, EQR_NalHutta, Ground_Cantina_R</Special_Case_Production>
+        
+        <Special_Case_Production> Empire, EQR_NalHutta, Ground_Hutt_Palace_E</Special_Case_Production>
+        <Special_Case_Production> Rebel, EQR_NalHutta, Ground_Hutt_Palace_R</Special_Case_Production>
+        
+        <Special_Case_Production> Empire, EQR_Ryloth, Ground_Cantina_E</Special_Case_Production>
+        <Special_Case_Production> Rebel, EQR_Ryloth, Ground_Cantina_R</Special_Case_Production>
+        
+        <Special_Case_Production> Empire, EQR_Ryloth, Ground_Hutt_Palace_E</Special_Case_Production>
+        <Special_Case_Production> Rebel, EQR_Ryloth, Ground_Hutt_Palace_R</Special_Case_Production>
+        
+        <Special_Case_Production> Empire, EQR_Tatooine, Ground_Cantina_E</Special_Case_Production>
+        <Special_Case_Production> Rebel, EQR_Tatooine, Ground_Cantina_R</Special_Case_Production>
+        
+        <Special_Case_Production> Empire, EQR_Tatooine, Ground_Hutt_Palace_E</Special_Case_Production>
+        <Special_Case_Production> Rebel, EQR_Tatooine, Ground_Hutt_Palace_R</Special_Case_Production>
+
+
+        <!-- Rebel Starting Forces -->
+
+        <Starting_Credits> Rebel,  8000 </Starting_Credits>
+        <Starting_Tech_Level> Rebel, 5 </Starting_Tech_Level>
+        <Max_Tech_Level> Rebel, 4 </Max_Tech_Level>
+        
+        <!-- Bespin Space Forces -->
+        <Starting_Forces> Rebel, Rework_Bespin, Rebel_Star_Base_2 </Starting_Forces>
+        <Starting_Forces> Rebel, Rework_Bespin, Rebel_Tibanna_Gas_Extractor </Starting_Forces>
+        <Starting_Forces> Rebel, Rework_Bespin, Rebel_Tibanna_Gas_Extractor </Starting_Forces>
+        <Starting_Forces> Rebel, Rework_Bespin, Rebel_X-Wing_Squadron </Starting_Forces>
+        <Starting_Forces> Rebel, Rework_Bespin, Y-Wing_Squadron </Starting_Forces>
+        <Starting_Forces> Rebel, Rework_Bespin, Nebulon_B_Frigate </Starting_Forces>
+      
+        <!-- Bespin Land Forces -->
+        <Starting_Forces> Rebel, Rework_Bespin, R_Ground_Barracks </Starting_Forces>
+        <Starting_Forces> Rebel, Rework_Bespin, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, Rework_Bespin, Rebel_Light_Tank_Brigade </Starting_Forces>
+
+        <Starting_Credits> Pentastar,  8000 </Starting_Credits>
+        <Starting_Tech_Level> Pentastar, 5 </Starting_Tech_Level>
+        <Max_Tech_Level> Pentastar, 4 </Max_Tech_Level>
+        
+        <!-- Bespin Space Forces -->
+        <Starting_Forces> Pentastar, Rework_Entralla, Rebel_Star_Base_2 </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Entralla, Rebel_Tibanna_Gas_Extractor </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Entralla, Rebel_Tibanna_Gas_Extractor </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Entralla, Rebel_X-Wing_Squadron </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Entralla, Y-Wing_Squadron </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Entralla, Nebulon_B_Frigate </Starting_Forces>
+      
+        <!-- Bespin Land Forces -->
+        <Starting_Forces> Pentastar, Rework_Entralla, R_Ground_Barracks </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Entralla, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Entralla, Rebel_Light_Tank_Brigade </Starting_Forces>
+
+    </Campaign>
+</Campaigns>

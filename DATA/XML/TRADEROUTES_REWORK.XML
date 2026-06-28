@@ -7,4 +7,30 @@
             <Political_Control_Gain>0</Political_Control_Gain>
             <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
     </TradeRoute>
+
+    <TradeRoute Name="Bastion_Entralla">
+            <Point_A>Rework_Bastion</Point_A>
+            <Point_B>Rework_Entralla</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="Entralla_Jaemus">
+            <Point_A>Rework_Entralla</Point_A>
+            <Point_B>Rework_Jaemus</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="Munnilinst_Jaemus">
+            <Point_A>Rework_Munnilinst</Point_A>
+            <Point_B>Rework_Jaemus</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    
 </TradeRoutes>
