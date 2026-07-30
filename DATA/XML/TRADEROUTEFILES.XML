@@ -1,7 +1,8 @@
 <?xml version="1.0" ?>
 
-<Trade_Route_Files>
+<Trade_Route_Files><!--
 	<File>TradeRoutes.xml</File>
-	<File>TradeRoutes_EQR.xml</File>
+	<File>TradeRoutes_EQR.xml</File>-->
 	<File>TradeRoutes_Rework.xml</File>
+	<File>WF_Traderoutes.xml</File>
 </Trade_Route_Files>

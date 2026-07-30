@@ -52,9 +52,9 @@
 	<File>SPECIALSTRUCTURES_INDEPENDANT.xml</File>
 
 	<File>Squadrons.xml</File>
-
+<!--
 	<File>Planets.xml</File>
-	<File>PLANETS_EQR.xml</File>
+	<File>PLANETS_EQR.xml</File>-->
 	<File>PLANETS_REWORK.xml</File>
 
 	<File>Projectiles.xml</File>
@@ -161,6 +161,8 @@
 	<!-- Heroes -->
 
 	<File>UNITS\HERO\Units_Hero_Kaine.xml</File>
+	<File>UNITS\HERO\Units_Hero_Isard.xml</File>
+	<File>UNITS\HERO\Units_Hero_Harrsk.xml</File>
 
 
 

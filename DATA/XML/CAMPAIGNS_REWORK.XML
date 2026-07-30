@@ -10,52 +10,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <Campaigns>
   <!-- ******************************************************************** -->
   <!-- ***** SANDBOX CAMPAIGN "Equal Footing - All Planets Populated" ***** -->
@@ -72,32 +26,9 @@
         <Camera_Shift_Y> 0.0 </Camera_Shift_Y>
         <Camera_Distance> 1200.0 </Camera_Distance>
 
-        <Locations>EQR_Galaxy_Core_Art_Model, Rework_Abregado_Rae, Rework_AetenII, Rework_Alderaan, Rework_Alsakan, Rework_AlzocIII, Rework_Anaxes, Rework_Atzerri, Rework_Bastion, Rework_Bespin, Rework_Bestine, Rework_Bilbringi, Rework_Bonadan, Rework_Borosk, Rework_Bothawui, Rework_Byss, Rework_Carida, Rework_Carratos, Rework_Corellia, Rework_Corulag, Rework_Coruscant, Rework_Dagobah, Rework_Dantooine, Rework_Dathomir, Rework_Dorin, Rework_Endor, Rework_Entralla, Rework_Eriadu, Rework_Felucia, Rework_Foerost, Rework_Fondor, Rework_Fresia, Rework_Geonosis, Rework_Honoghr, Rework_Hoth, Rework_Hypori, Rework_Ilum, Rework_Jabiim, Rework_Jaemus, Rework_Kamino, Rework_Kashyyyk, Rework_Kessel, Rework_Korriban, Rework_Kuat, Rework_Lonnaw, Rework_Manaan, Rework_Mandalore, Rework_Mandalore_Prologue, Rework_Metellos, Rework_MonCalimari, Rework_Morishim, Rework_Mustafar, Rework_Muunilinst, Rework_Mygeeto, Rework_Myrkr, Rework_Naboo, Rework_NalHutta, Rework_Nentan, Rework_Neshtab, Rework_OrdMirit, Rework_OrdTrasi, Rework_Ord_Mantell, Rework_Ord_Tessebok, Rework_Orinda, Rework_Polus, Rework_Prefsbelt, Rework_Ragoon, Rework_Ryloth, Rework_Ryloth_Prologue, Rework_Saleucami, Rework_Shola, Rework_Sullust, Rework_Taris, Rework_Tatooine, Rework_The_Maw, Rework_Thyferra, Rework_Utapau, Rework_VergessoAsteroids, Rework_Wayland, Rework_Wistril, Rework_XaFel, Rework_YagaMinor, Rework_Yavin</Locations>
+        <Locations>EQR_Galaxy_Core_Art_Model, Rework_Abhean, Rework_Abregado_Rae, Rework_AetenII, Rework_Alderaan, Rework_Alsakan, Rework_Alzoc, Rework_AlzocIII, Rework_Ammuud, Rework_Anaxes, Rework_Argonar, Rework_Atzerri, Rework_Bastion, Rework_Bespin, Rework_Bestine, Rework_Bilbringi, Rework_Bonadan, Rework_Borosk, Rework_Bortras, Rework_Bothawui, Rework_Bpfassh, Rework_Byss, Rework_Carida, Rework_Carratos, Rework_Centares, Rework_Columex, Rework_Constancia, Rework_Corellia, Rework_Corulag, Rework_Coruscant, Rework_Craci, Rework_Dagobah, Rework_Dantooine, Rework_Dathomir, Rework_Dorin, Rework_Dulvoyinn, Rework_Ebaq, Rework_Echnos, Rework_Eiattu, Rework_Elom, Rework_Empress_Teta, Rework_Endor, Rework_Entralla, Rework_Eriadu, Rework_Ession, Rework_Etti, Rework_Felucia, Rework_Foerost, Rework_Fondor, Rework_Fresia, Rework_Geonosis, Rework_Hakassi, Rework_Hast, Rework_Hiit, Rework_Honoghr, Rework_Hoth, Rework_Hypori, Rework_Ilum, Rework_Ingo, Rework_Jabiim, Rework_Jaemus, Rework_Jerrist, Rework_Jomark, Rework_Kabal, Rework_Kalist, Rework_Kalla, Rework_Kamar, Rework_Kamino, Rework_Kashyyyk, Rework_Kessel, Rework_Khomm, Rework_Korriban, Rework_Kuat, Rework_Lantillies, Rework_Lettow, Rework_Lialic, Rework_Lolnar, Rework_Lonnaw, Rework_Lythos, Rework_Manaan, Rework_Mandalore, Rework_Mandalore_Prologue, Rework_Metalorn, Rework_Metellos, Rework_MonCalimari, Rework_Morishim, Rework_Mustafar, Rework_Muunilinst, Rework_Mygeeto, Rework_Myrkr, Rework_Naboo, Rework_NalHutta, Rework_Nentan, Rework_Neshtab, Rework_New_Alderaan, Rework_Nkllon, Rework_Odik, Rework_Ojom, Rework_OrdMirit, Rework_OrdTrasi, Rework_Ord_Grovner, Rework_Ord_Mantell, Rework_Ord_Pardon, Rework_Ord_Tessebok, Rework_Ord_Tiddell, Rework_Orinda, Rework_Oslumpex, Rework_Ottabesk, Rework_Pammant, Rework_Polus, Rework_Prakith, Rework_Prefsbelt, Rework_Qat_Chrystac, Rework_Ragoon, Rework_Rendili, Rework_Roche, Rework_Roon, Rework_Rothana, Rework_Ryloth, Rework_Ryloth_Prologue, Rework_Saleucami, Rework_Shola, Rework_Sluis_Van, Rework_Sullust, Rework_Taris, Rework_Taroon, Rework_Tatooine, Rework_The_Maw, Rework_Thyferra, Rework_Tibrin, Rework_Ton_Falk, Rework_Toola, Rework_Trogan, Rework_Troiken, Rework_Tsoss_Beacon, Rework_Tython, Rework_Utapau, Rework_Vaynal, Rework_VergessoAsteroids, Rework_Wayland, Rework_Wistril, Rework_Woostri, Rework_XaFel, Rework_YagaMinor, Rework_Yavin, Rework_Zamael</Locations>
 
-        <Trade_Routes>Bastion_Entralla, Bastion_Jaemus, Entralla_Jaemus, Munnilinst_Jaemus, Rework_Alsakan_Rework_Anaxes, Rework_Bilbringi_Rework_Carratos, Rework_Borosk_Rework_Lonnaw, Rework_Borosk_Rework_Orinda, Rework_Borosk_Rework_Prefsbelt, Rework_Borosk_Rework_YagaMinor, Rework_Carratos_Rework_XaFel, Rework_Coruscant_Rework_Alsakan, Rework_Coruscant_Rework_Foerost, Rework_Coruscant_Rework_Metellos, Rework_Dorin_Rework_Bilbringi, Rework_Entralla_Rework_YagaMinor, Rework_Jaemus_Rework_Muunilinst, Rework_Jaemus_Rework_Mygeeto, Rework_Jaemus_Rework_OrdTrasi, Rework_Lonnaw_Rework_Nentan, Rework_Lonnaw_Rework_Orinda, Rework_Metellos_Rework_Fresia, Rework_Metellos_Rework_OrdMirit, Rework_Muunilinst_Rework_Entralla, Rework_Muunilinst_Rework_Mygeeto, Rework_Mygeeto_Rework_Morishim, Rework_Mygeeto_Rework_OrdTrasi, Rework_Mygeeto_Rework_Prefsbelt, Rework_Nentan_Rework_Dorin, Rework_Nentan_Rework_Ord_Mantell, Rework_OrdMirit_Rework_Carratos, Rework_OrdMirit_Rework_Ragoon, Rework_OrdMirit_Rework_XaFel, Rework_OrdTrasi_Rework_Morishim, Rework_Ord_Tessebok_Rework_Lonnaw, Rework_Ord_Tessebok_Rework_Nentan, Rework_Ord_Tessebok_Rework_Ord_Mantell, Rework_Ord_Tessebok_Rework_Orinda, Rework_Prefsbelt_Rework_Entralla, Rework_Prefsbelt_Rework_Morishim, Rework_Ragoon_Rework_Fresia, Rework_Ragoon_Rework_Metellos, Rework_Ragoon_Rework_XaFel, Rework_Wistril_Rework_Borosk, Rework_Wistril_Rework_Orinda, Rework_Wistril_Rework_Prefsbelt, Rework_YagaMinor_Rework_Prefsbelt</Trade_Routes>
-
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        <Trade_Routes>Bastion_Entralla, Bastion_Jaemus, Entralla_Jaemus, Munnilinst_Jaemus, Rework_Abregado_Rae_Rework_Dulvoyinn, Rework_Abregado_Rae_Rework_Fondor, Rework_Alsakan_Rework_Anaxes, Rework_AlzocIII_Rework_Alzoc, Rework_Ammuud_Rework_Ession, Rework_Ammuud_Rework_Kalla, Rework_Ammuud_Rework_Oslumpex, Rework_Anaxes_Rework_Alderaan, Rework_Atzerri_Rework_Bothawui, Rework_Bespin_Rework_Endor, Rework_Bestine_Rework_Atzerri, Rework_Bilbringi_Rework_Carratos, Rework_Bilbringi_Rework_Neshtab, Rework_Bonadan_Rework_Etti, Rework_Bonadan_Rework_Kalla, Rework_Borosk_Rework_Lonnaw, Rework_Borosk_Rework_Prefsbelt, Rework_Borosk_Rework_YagaMinor, Rework_Bortras_Rework_Eriadu, Rework_Bothawui_Rework_NalHutta, Rework_Bpfassh_Rework_Bortras, Rework_Bpfassh_Rework_Mustafar, Rework_Bpfassh_Rework_Sluis_Van, Rework_Carida_Rework_Alderaan, Rework_Carida_Rework_Myrkr, Rework_Carida_Rework_Taris, Rework_Carratos_Rework_XaFel, Rework_Centares_Rework_Abhean, Rework_Centares_Rework_Columex, Rework_Centares_Rework_Jomark, Rework_Columex_Rework_Elom, Rework_Constancia_Rework_Abregado_Rae, Rework_Constancia_Rework_Dulvoyinn, Rework_Constancia_Rework_Zamael, Rework_Corellia_Rework_Lolnar, Rework_Corellia_Rework_Manaan, Rework_Corulag_Rework_Coruscant, Rework_Coruscant_Rework_Alsakan, Rework_Coruscant_Rework_Foerost, Rework_Coruscant_Rework_Metellos, Rework_Dagobah_Rework_Sluis_Van, Rework_Dagobah_Rework_Utapau, Rework_Dantooine_Rework_Polus, Rework_Dathomir_Rework_Argonar, Rework_Dathomir_Rework_Mandalore, Rework_Dorin_Rework_Bilbringi, Rework_Ebaq_Rework_Tython, Rework_Echnos_Rework_Bortras, Rework_Echnos_Rework_Eiattu, Rework_Echnos_Rework_Tibrin, Rework_Eiattu_Rework_Bortras, Rework_Eiattu_Rework_Naboo, Rework_Elom_Rework_Korriban, Rework_Elom_Rework_Ton_Falk, Rework_Elom_Rework_Troiken, Rework_Empress_Teta_Rework_Tython, Rework_Entralla_Rework_YagaMinor, Rework_Eriadu_Rework_Kabal, Rework_Eriadu_Rework_Sluis_Van, Rework_Ession_Rework_Etti, Rework_Ession_Rework_Hiit, Rework_Etti_Rework_Oslumpex, Rework_Felucia_Rework_Ton_Falk, Rework_Foerost_Rework_Empress_Teta, Rework_Fondor_Rework_Nkllon, Rework_Fondor_Rework_Thyferra, Rework_Geonosis_Rework_Hypori, Rework_Geonosis_Rework_Tatooine, Rework_Hakassi_Rework_Ebaq, Rework_Hast_Rework_MonCalimari, Rework_Hast_Rework_Pammant, Rework_Hiit_Rework_Dantooine, Rework_Hiit_Rework_Lythos, Rework_Honoghr_Rework_Kessel, Rework_Hoth_Rework_Bespin, Rework_Hoth_Rework_Mustafar, Rework_Ilum_Rework_Dorin, Rework_Ingo_Rework_Kashyyyk, Rework_Jabiim_Rework_Pammant, Rework_Jabiim_Rework_Trogan, Rework_Jaemus_Rework_Muunilinst, Rework_Jaemus_Rework_Mygeeto, Rework_Jaemus_Rework_OrdTrasi, Rework_Jerrist_Rework_Ammuud, Rework_Jerrist_Rework_Craci, Rework_Jerrist_Rework_Ession, Rework_Jomark_Rework_Jabiim, Rework_Jomark_Rework_Trogan, Rework_Kabal_Rework_Naboo, Rework_Kalist_Rework_Byss, Rework_Kalist_Rework_Ojom, Rework_Kamar_Rework_Bonadan, Rework_Kamino_Rework_Rothana, Rework_Kashyyyk_Rework_Lantillies, Rework_Kashyyyk_Rework_NalHutta, Rework_Kashyyyk_Rework_Roche, Rework_Kessel_Rework_Jabiim, Rework_Kessel_Rework_Pammant, Rework_Kessel_Rework_The_Maw, Rework_Khomm_Rework_Zamael, Rework_Kuat_Rework_Kashyyyk, Rework_Lettow_Rework_Hakassi, Rework_Lettow_Rework_Rendili, Rework_Lialic_Rework_Dulvoyinn, Rework_Lialic_Rework_Kalist, Rework_Lialic_Rework_Zamael, Rework_Lonnaw_Rework_Nentan, Rework_Lonnaw_Rework_Orinda, Rework_Lythos_Rework_Etti, Rework_Manaan_Rework_Kashyyyk, Rework_Manaan_Rework_Kuat, Rework_Mandalore_Rework_Roche, Rework_Mandalore_Rework_Yavin, Rework_Metalorn_Rework_Abhean, Rework_Metalorn_Rework_Ingo, Rework_Metalorn_Rework_Jomark, Rework_Metellos_Rework_Corulag, Rework_Metellos_Rework_OrdMirit, Rework_MonCalimari_Rework_New_Alderaan, Rework_Morishim_Rework_Dantooine, Rework_Mustafar_Rework_Echnos, Rework_Muunilinst_Rework_Entralla, Rework_Muunilinst_Rework_Mygeeto, Rework_Mygeeto_Rework_Morishim, Rework_Mygeeto_Rework_Prefsbelt, Rework_Naboo_Rework_Bestine, Rework_Naboo_Rework_Tatooine, Rework_Naboo_Rework_VergessoAsteroids, Rework_NalHutta_Rework_Kessel, Rework_NalHutta_Rework_Saleucami, Rework_Nentan_Rework_Dorin, Rework_Nentan_Rework_Ord_Mantell, Rework_Neshtab_Rework_AetenII, Rework_New_Alderaan_Rework_Ton_Falk, Rework_Nkllon_Rework_Qat_Chrystac, Rework_Odik_Rework_Byss, Rework_Ojom_Rework_Khomm, Rework_Ojom_Rework_Ottabesk, Rework_OrdMirit_Rework_Carratos, Rework_OrdMirit_Rework_XaFel, Rework_OrdTrasi_Rework_Morishim, Rework_Ord_Grovner_Rework_Alzoc, Rework_Ord_Mantell_Rework_AetenII, Rework_Ord_Mantell_Rework_Dantooine, Rework_Ord_Pardon_Rework_Bothawui, Rework_Ord_Pardon_Rework_Geonosis, Rework_Ord_Pardon_Rework_Roon, Rework_Ord_Tessebok_Rework_Lonnaw, Rework_Ord_Tessebok_Rework_Nentan, Rework_Ord_Tessebok_Rework_Ord_Mantell, Rework_Ord_Tessebok_Rework_Orinda, Rework_Ord_Tiddell_Rework_Abhean, Rework_Oslumpex_Rework_Bonadan, Rework_Ottabesk_Rework_Ebaq, Rework_Ottabesk_Rework_Hakassi, Rework_Polus_Rework_Dathomir, Rework_Prakith_Rework_Odik, Rework_Prakith_Rework_Tsoss_Beacon, Rework_Prakith_Rework_Tython, Rework_Prefsbelt_Rework_Morishim, Rework_Qat_Chrystac_Rework_Eiattu, Rework_Ragoon_Rework_Fresia, Rework_Ragoon_Rework_XaFel, Rework_Rendili_Rework_Corellia, Rework_Rendili_Rework_Kuat, Rework_Rendili_Rework_Lolnar, Rework_Roche_Rework_Lantillies, Rework_Roche_Rework_Ord_Tiddell, Rework_Roon_Rework_Rothana, Rework_Rothana_Rework_Shola, Rework_Ryloth_Rework_Hypori, Rework_Ryloth_Rework_Tatooine, Rework_Ryloth_Rework_VergessoAsteroids, Rework_Saleucami_Rework_Ingo, Rework_Saleucami_Rework_Jabiim, Rework_Saleucami_Rework_Jomark, Rework_Shola_Rework_NalHutta, Rework_Sullust_Rework_Bespin, Rework_Sullust_Rework_Eiattu, Rework_Sullust_Rework_Endor, Rework_Sullust_Rework_Tibrin, Rework_Taris_Rework_Polus, Rework_Taris_Rework_Wayland, Rework_Taroon_Rework_Ord_Grovner, Rework_Thyferra_Rework_Nkllon, Rework_Tibrin_Rework_Hoth, Rework_Ton_Falk_Rework_Troiken, Rework_Toola_Rework_New_Alderaan, Rework_Troiken_Rework_Ammuud, Rework_Tsoss_Beacon_Rework_Ebaq, Rework_Tsoss_Beacon_Rework_Kalist, Rework_Tython_Rework_Tsoss_Beacon, Rework_Utapau_Rework_Ord_Grovner, Rework_Utapau_Rework_Taroon, Rework_Vaynal_Rework_Kalla, Rework_Vaynal_Rework_Kamar, Rework_VergessoAsteroids_Rework_Ord_Grovner, Rework_Wayland_Rework_Dathomir, Rework_Wayland_Rework_Myrkr, Rework_Wistril_Rework_Borosk, Rework_Wistril_Rework_Orinda, Rework_Wistril_Rework_Prefsbelt, Rework_Woostri_Rework_Bestine, Rework_Woostri_Rework_Qat_Chrystac, Rework_Woostri_Rework_Thyferra, Rework_YagaMinor_Rework_Prefsbelt, Rework_Yavin_Rework_Korriban, Rework_Zamael_Rework_Kalist</Trade_Routes>
         
         
         
@@ -117,60 +48,14 @@
         
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-
-        <Starting_Active_Player> Pentastar </Starting_Active_Player>
+        <Starting_Active_Player> Empire </Starting_Active_Player>
 
         <Rebel_Story_Name>Story_Plots_Sandbox_Rebel_EQR_AI.xml</Rebel_Story_Name>
         <Empire_Story_Name>Story_Plots_Sandbox_Empire_EQR_AI.xml</Empire_Story_Name>
         <Underworld_Story_Name>.xml</Underworld_Story_Name>
         
-        <AI_Player_Control> Empire, BasicEmpire </AI_Player_Control>
+        <AI_Player_Control> ZeroCommand, BasicEmpire </AI_Player_Control>
+        <AI_Player_Control> Pentastar, BasicRebel </AI_Player_Control>
         <AI_Player_Control> Rebel, BasicRebel </AI_Player_Control>
         <AI_Player_Control> Pirates, None </AI_Player_Control>
         <AI_Player_Control> Hutts, None </AI_Player_Control>
@@ -231,7 +116,7 @@
 
         <Starting_Credits> Rebel,  8000 </Starting_Credits>
         <Starting_Tech_Level> Rebel, 5 </Starting_Tech_Level>
-        <Max_Tech_Level> Rebel, 4 </Max_Tech_Level>
+        <Max_Tech_Level> Rebel, 5 </Max_Tech_Level>
         
         <!-- Bespin Space Forces -->
         <Starting_Forces> Rebel, Rework_Bespin, Rebel_Star_Base_2 </Starting_Forces>
@@ -246,22 +131,126 @@
         <Starting_Forces> Rebel, Rework_Bespin, Rebel_Infantry_Squad </Starting_Forces>
         <Starting_Forces> Rebel, Rework_Bespin, Rebel_Light_Tank_Brigade </Starting_Forces>
 
-        <Starting_Credits> Pentastar,  8000 </Starting_Credits>
-        <Starting_Tech_Level> Pentastar, 5 </Starting_Tech_Level>
-        <Max_Tech_Level> Pentastar, 4 </Max_Tech_Level>
+        <Starting_Credits> Empire,  10000 </Starting_Credits>
+        <Starting_Tech_Level> Empire, 5 </Starting_Tech_Level>
+        <Max_Tech_Level> Empire, 5 </Max_Tech_Level>
         
         <!-- Bespin Space Forces -->
-        <Starting_Forces> Pentastar, Rework_Entralla, Rebel_Star_Base_2 </Starting_Forces>
-        <Starting_Forces> Pentastar, Rework_Entralla, Rebel_Tibanna_Gas_Extractor </Starting_Forces>
-        <Starting_Forces> Pentastar, Rework_Entralla, Rebel_Tibanna_Gas_Extractor </Starting_Forces>
-        <Starting_Forces> Pentastar, Rework_Entralla, Rebel_X-Wing_Squadron </Starting_Forces>
-        <Starting_Forces> Pentastar, Rework_Entralla, Y-Wing_Squadron </Starting_Forces>
-        <Starting_Forces> Pentastar, Rework_Entralla, Nebulon_B_Frigate </Starting_Forces>
-      
+        <Starting_Forces> Empire, Rework_Coruscant, Empire_Star_Base_5 </Starting_Forces>
+        <Starting_Forces> Empire, Rework_Coruscant, Lusankya_Super_Star_Destroyer </Starting_Forces>
         <!-- Bespin Land Forces -->
-        <Starting_Forces> Pentastar, Rework_Entralla, R_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Pentastar, Rework_Entralla, Rebel_Infantry_Squad </Starting_Forces>
-        <Starting_Forces> Pentastar, Rework_Entralla, Rebel_Light_Tank_Brigade </Starting_Forces>
+        <Starting_Forces> Empire, Rework_Coruscant, E_Ground_Barracks </Starting_Forces>
+        <Starting_Forces> Empire, Rework_Coruscant, Imperial_Army_Trooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, Rework_Coruscant, Imperial_Army_Trooper_Squad </Starting_Forces>
+
+        <Starting_Credits> ZeroCommand,  10000 </Starting_Credits>
+        <Starting_Tech_Level> ZeroCommand, 5 </Starting_Tech_Level>
+        <Max_Tech_Level> ZeroCommand, 5 </Max_Tech_Level>
+        
+        <!-- Bespin Space Forces -->
+        <Starting_Forces> ZeroCommand, Rework_Kalist, ZeroCommand_Star_Base_4 </Starting_Forces>
+        <Starting_Forces> ZeroCommand, Rework_Kalist, Harrsk </Starting_Forces>
+        <Starting_Forces> ZeroCommand, Rework_Kalist, Victory_Destroyer_I_ZeroCommand </Starting_Forces>
+        <!-- Bespin Land Forces -->
+        <Starting_Forces> ZeroCommand, Rework_Kalist, Warlord_Barracks </Starting_Forces>
+        <Starting_Forces> ZeroCommand, Rework_Kalist, Imperial_Army_Trooper_Squad </Starting_Forces>
+        <Starting_Forces> ZeroCommand, Rework_Kalist, Imperial_Army_Trooper_Squad </Starting_Forces>
+
+        <Starting_Credits> Pentastar,  10000 </Starting_Credits>
+        <Starting_Tech_Level> Pentastar, 5 </Starting_Tech_Level>
+        <Max_Tech_Level> Pentastar, 5 </Max_Tech_Level>
+        
+        <!-- Bespin Space Forces -->
+        <Starting_Forces> Pentastar, Rework_Entralla, Pentastar_Star_Base_4 </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Entralla, Reaper_Super_Star_Destroyer </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Entralla, Enforcer_Cruiser </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Entralla, Enforcer_Cruiser </Starting_Forces>
+        <!-- Bespin Land Forces -->
+        <Starting_Forces> Pentastar, Rework_Entralla, Warlord_Barracks </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Entralla, Imperial_Army_Trooper_Squad </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Entralla, Imperial_Army_Trooper_Squad </Starting_Forces>
+
+        <!-- Bespin Space Forces -->
+        <Starting_Forces> Pentastar, Rework_Bastion, Pentastar_Star_Base_5 </Starting_Forces>
+        <!-- Bespin Land Forces -->
+        <Starting_Forces> Pentastar, Rework_Bastion, Warlord_Barracks </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Bastion, Imperial_Army_Trooper_Squad </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Bastion, Imperial_Army_Trooper_Squad </Starting_Forces>
+
+        <!-- Bespin Space Forces -->
+        <Starting_Forces> Pentastar, Rework_Muunilinst, Pentastar_Star_Base_5 </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Muunilinst, Pentastar_Munificent </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Muunilinst, Pentastar_Munificent </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Muunilinst, Pentastar_Munificent </Starting_Forces>
+        <!-- Bespin Land Forces -->
+        <Starting_Forces> Pentastar, Rework_Muunilinst, Warlord_Barracks </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Muunilinst, Imperial_Army_Trooper_Squad </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Muunilinst, Imperial_Army_Trooper_Squad </Starting_Forces>
+
+        <!-- Bespin Space Forces -->
+        <Starting_Forces> Pentastar, Rework_Jaemus, Pentastar_Star_Base_5 </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Jaemus, Star_Destroyer_II_Pentastar </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Jaemus, Enforcer_Cruiser </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Jaemus, Enforcer_Cruiser </Starting_Forces>
+        <!-- Bespin Land Forces -->
+        <Starting_Forces> Pentastar, Rework_Jaemus, Warlord_Barracks </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Jaemus, Imperial_Army_Trooper_Squad </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Jaemus, Imperial_Army_Trooper_Squad </Starting_Forces>
+
+        <!-- Bespin Space Forces -->
+        <Starting_Forces> Pentastar, Rework_YagaMinor, Pentastar_Star_Base_5 </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_YagaMinor, Star_Destroyer_II_Pentastar </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_YagaMinor, Enforcer_Cruiser </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_YagaMinor, Enforcer_Cruiser </Starting_Forces>
+        <!-- Bespin Land Forces -->
+        <Starting_Forces> Pentastar, Rework_YagaMinor, Warlord_Barracks </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_YagaMinor, Imperial_Army_Trooper_Squad </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_YagaMinor, Imperial_Army_Trooper_Squad </Starting_Forces>
+
+         <!-- Bespin Space Forces -->
+        <Starting_Forces> Pentastar, Rework_Prefsbelt, Pentastar_Star_Base_3 </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Prefsbelt, Enforcer_Cruiser </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Prefsbelt, Enforcer_Cruiser </Starting_Forces>
+        <!-- Bespin Land Forces -->
+        <Starting_Forces> Pentastar, Rework_Prefsbelt, Warlord_Barracks </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Prefsbelt, Imperial_Army_Trooper_Squad </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Prefsbelt, Imperial_Army_Trooper_Squad </Starting_Forces>
+
+        <!-- Bespin Space Forces -->
+        <Starting_Forces> Pentastar, Rework_Borosk, Pentastar_Star_Base_1 </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Borosk, Raider_II </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Borosk, Raider_II </Starting_Forces>
+        <!-- Bespin Land Forces -->
+        <Starting_Forces> Pentastar, Rework_Borosk, Warlord_Barracks </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Borosk, Imperial_Army_Trooper_Squad </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Borosk, Imperial_Army_Trooper_Squad </Starting_Forces>
+
+        <!-- Bespin Space Forces -->
+        <Starting_Forces> Pentastar, Rework_Mygeeto, Pentastar_Star_Base_1 </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Mygeeto, Enforcer_Cruiser </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Mygeeto, Raider_II </Starting_Forces>
+        <!-- Bespin Land Forces -->
+        <Starting_Forces> Pentastar, Rework_Mygeeto, Warlord_Mining_Facility </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Mygeeto, Imperial_Army_Trooper_Squad </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Mygeeto, Imperial_Army_Trooper_Squad </Starting_Forces>
+
+        <!-- Bespin Space Forces -->
+        <Starting_Forces> Pentastar, Rework_OrdTrasi, Pentastar_Star_Base_5 </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_OrdTrasi, Star_Destroyer_II_Pentastar </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_OrdTrasi, Enforcer_Cruiser </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_OrdTrasi, Enforcer_Cruiser </Starting_Forces>
+        <!-- Bespin Land Forces -->
+        <Starting_Forces> Pentastar, Rework_OrdTrasi, Warlord_Barracks </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_OrdTrasi, Imperial_Army_Trooper_Squad </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_OrdTrasi, Imperial_Army_Trooper_Squad </Starting_Forces>
+
+        <!-- Bespin Space Forces -->
+        <Starting_Forces> Pentastar, Rework_Morishim, Pentastar_Star_Base_1 </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Morishim, Raider_II </Starting_Forces>
+        <!-- Bespin Land Forces -->
+        <Starting_Forces> Pentastar, Rework_Morishim, Warlord_Barracks </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Morishim, Imperial_Army_Trooper_Squad </Starting_Forces>
+        <Starting_Forces> Pentastar, Rework_Morishim, Imperial_Army_Trooper_Squad </Starting_Forces>
 
     </Campaign>
 </Campaigns>

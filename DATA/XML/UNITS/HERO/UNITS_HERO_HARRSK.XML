@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Harrsk>
+
+	<SpaceUnit Name="Harrsk">
+		<Variant_Of_Existing_Type>Star_Destroyer_II_E_No_Fighters</Variant_Of_Existing_Type>
+
+		<Icon_Name>i_button_harrsk.tga</Icon_Name>
+
+		<Text_ID>TEXT_HERO_HARRSK</Text_ID>
+		<Encyclopedia_Text> TEXT_TOOLTIP_HARRSK </Encyclopedia_Text>
+
+		<Starting_Spawned_Units_Tech_0>TIE_Brute_Squadron, 3</Starting_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
+
+		<Reserve_Spawned_Units_Tech_0>TIE_Brute_Squadron, 12</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 4</Reserve_Spawned_Units_Tech_0> 
+
+		<Population_Value>7</Population_Value>
+
+		<Affiliation>ZeroCommand</Affiliation>
+		<Tech_Level>99</Tech_Level>
+		<Is_Named_Hero>Yes</Is_Named_Hero>
+		
+	</SpaceUnit>
+	
+	
+	
+	
+	
+	
+</Harrsk>

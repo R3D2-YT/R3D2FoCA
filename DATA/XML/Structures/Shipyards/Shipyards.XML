@@ -168,20 +168,23 @@
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 		<Required_Special_Structures />
 		<Required_Planets>
-			EQR_Byss,
-			EQR_Corellia,
-			EQR_Fondor,
-			EQR_Kuat,
-			EQR_Hypori,
-			EQR_Mandalore, 
-            EQR_MonCalimari, 
-			EQR_The_Maw,
-			EQR_Scarif,
-			EQR_YagaMinor,
-            EQR_Bilbringi,
-            EQR_Rothana,
-			EQR_Balmorra,
-			EQR_Foerost,
+			Rework_Byss,
+			Rework_Corellia,
+			Rework_Fondor,
+			Rework_Kuat,
+			Rework_Hypori,
+			Rework_Mandalore, 
+            Rework_MonCalimari, 
+			Rework_The_Maw,
+			Rework_Scarif,
+			Rework_YagaMinor,
+            Rework_Bilbringi,
+            Rework_Rothana,
+			Rework_Balmorra,
+			Rework_Foerost,
+			Rework_Jaemus,
+			Rework_YagaMinor,
+			Rework_OrdTrasi,
 		</Required_Planets>
 		<Tactical_Health>6400</Tactical_Health>
 		<Behavior>SELECTABLE, DUMMY_ORBITAL_STRUCTURE</Behavior>

@@ -248,7 +248,7 @@
 		<Required_Special_Structures>Tier_III_Shipyard</Required_Special_Structures>
 		<Lua_Script>StarDestroyer</Lua_Script>
 
-		<Population_Value>5</Population_Value>
+		<Population_Value>7</Population_Value>
 
 		<Starting_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 2</Starting_Spawned_Units_Tech_0>
 		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 1</Starting_Spawned_Units_Tech_0>
@@ -292,7 +292,7 @@
 		<Required_Special_Structures>Tier_III_Shipyard</Required_Special_Structures>
 		<Lua_Script>StarDestroyer</Lua_Script>
 
-		<Population_Value>5</Population_Value>
+		<Population_Value>7</Population_Value>
 
 		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 3</Starting_Spawned_Units_Tech_0>
 		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
