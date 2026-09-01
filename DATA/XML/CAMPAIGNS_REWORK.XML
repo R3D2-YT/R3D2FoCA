@@ -156,6 +156,16 @@
         <Starting_Forces> ZeroCommand, Rework_Kalist, Imperial_Army_Trooper_Squad </Starting_Forces>
         <Starting_Forces> ZeroCommand, Rework_Kalist, Imperial_Army_Trooper_Squad </Starting_Forces>
 
+        <!-- Bespin Space Forces -->
+        <Starting_Forces> ZeroCommand, Rework_Lialic, ZeroCommand_Star_Base_3 </Starting_Forces>
+        <Starting_Forces> ZeroCommand, Rework_Lialic, Arquitens_Zero_Command </Starting_Forces>
+        <Starting_Forces> ZeroCommand, Rework_Lialic, Arquitens_Zero_Command </Starting_Forces>
+        <Starting_Forces> ZeroCommand, Rework_Lialic, Arquitens_Zero_Command </Starting_Forces>
+        <!-- Bespin Land Forces -->
+        <Starting_Forces> ZeroCommand, Rework_Lialic, Warlord_Barracks </Starting_Forces>
+        <Starting_Forces> ZeroCommand, Rework_Lialic, Imperial_Army_Trooper_Squad </Starting_Forces>
+        <Starting_Forces> ZeroCommand, Rework_Lialic, Imperial_Army_Trooper_Squad </Starting_Forces>
+
         <Starting_Credits> Pentastar,  10000 </Starting_Credits>
         <Starting_Tech_Level> Pentastar, 5 </Starting_Tech_Level>
         <Max_Tech_Level> Pentastar, 5 </Max_Tech_Level>
