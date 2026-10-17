@@ -97,9 +97,18 @@
 	<!-- Ground Structures -->
 
 	<File>Structures\Land\Corporations.xml</File>
+	
+	<!-- Infantry -->
+
+	<File>UNITS\LAND\Units_Rebel_Infantry.xml</File>
 
 	<!-- Tanks -->
 
+	<File>UNITS\LAND\Units_Rebel_T1B.xml</File>
+	<File>UNITS\LAND\Units_Rebel_T2B.xml</File>
+	<File>UNITS\LAND\Units_Rebel_T4B.xml</File>
+	<File>UNITS\LAND\Units_Rebel_Airspeeder.xml</File>
+	<File>UNITS\LAND\Units_Rebel_MPTL.xml</File>
 	<File>UNITS\LAND\Units_EMPIRE_TIE_TANK.xml</File>
 	<File>UNITS\LAND\Units_ATAP.xml</File>
 	<File>UNITS\LAND\UNITS_LAND_ATTE.xml</File>
